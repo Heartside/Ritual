@@ -2,6 +2,7 @@
 *
 !*/
 
+# Tools (need to be removed)
 .ruff_cache/
 _binaries/
 _workdir/
@@ -9,6 +10,7 @@ _workdir/
 # Git
 !.gitattributes
 !.gitignore
+!LICENSE
 
 # Timing and subs
 !*.log
