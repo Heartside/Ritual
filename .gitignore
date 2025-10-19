@@ -1,0 +1,25 @@
+# By default, ignore _all_ files, but not directories
+*
+!*/
+
+.ruff_cache/
+_binaries/
+_workdir/
+
+# Git
+!.gitattributes
+!.gitignore
+
+# Timing and subs
+!*.log
+!*.ass
+!*.srt
+
+# Fonts
+!*.ttf
+!*.otf
+!*.ttc
+
+# Scripts
+!scripts/*
+!mux.py
