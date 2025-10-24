@@ -69,7 +69,7 @@ Dialogue: 0,0:04:51.00,0:04:51.83,Default,,0,0,0,,Sunday.
 Dialogue: 0,0:04:52.00,0:04:53.13,Default,,0,0,0,,Tomorrow?
 Dialogue: 0,0:04:54.25,0:04:55.17,Default,,0,0,0,,Tuesday.
 Dialogue: 0,0:04:55.96,0:04:57.67,Default,,0,0,0,,Did you perform your ritual today?
-Dialogue: 0,0:04:58.22,0:04:59.40,Default,,0,0,0,,Yes. 
+Dialogue: 0,0:04:58.22,0:04:59.40,Default,,0,0,0,,Yes.
 Dialogue: 0,0:04:59.40,0:05:01.64,Default,,0,0,0,,It will make my wish come true.
 Dialogue: 0,0:05:01.76,0:05:02.80,Default,,0,0,0,,Your wish?
 Dialogue: 0,0:05:03.18,0:05:07.52,Default,,0,0,0,,When my wish comes true,\NI can disappear completely,
@@ -80,7 +80,7 @@ Dialogue: 0,0:05:27.45,0:05:28.66,Default,,0,0,0,,Say,
 Dialogue: 0,0:05:29.25,0:05:30.87,Default,,0,0,0,,what's tomorrow?
 Dialogue: 0,0:05:33.67,0:05:35.67,Default,,0,0,0,,Can't you figure it out?
 Dialogue: 0,0:05:35.80,0:05:41.05,Default,,0,0,0,,Tomorrow is my birthday, so...
-Dialogue: 0,0:05:41.88,0:05:43.80,Default,,0,0,0,,I'd rather not be alone
+Dialogue: 0,0:05:41.88,0:05:43.80,Default,,0,0,0,,I'd rather not be alone.
 Dialogue: 0,0:06:15.54,0:06:16.54,Default,,0,0,0,,Um...
 Dialogue: 0,0:06:16.63,0:06:17.67,Default,,0,0,0,,What?
 Dialogue: 0,0:06:17.80,0:06:21.59,Default,,0,0,0,,That first day, \Nwhy did you follow me?
@@ -94,10 +94,9 @@ Dialogue: 0,0:06:54.08,0:06:56.46,Default,,0,0,0,,My unsound heart...
 Dialogue: 0,0:06:57.54,0:07:00.92,Default,,0,0,0,,and the consuming loneliness...
 Dialogue: 0,0:07:01.05,0:07:03.26,Default,,0,0,0,,of longing for someone.
 Dialogue: 0,0:07:04.30,0:07:06.80,Default,,0,0,0,,Perhaps anyone will do.
-Dialogue: 0,0:07:07.47,0:07:11.14,Default,,0,0,0,,As long as that someone
-Dialogue: 0,0:07:11.31,0:07:13.10,Default,,0,0,0,,will love me,
+Dialogue: 0,0:07:07.47,0:07:13.10,Default,,0,0,0,,As long as that someone will love me,
 Dialogue: 0,0:07:13.35,0:07:16.77,Default,,0,0,0,,constantly, ceaselessly,
-Dialogue: 0,0:07:17.36,0:07:19.77,Default,,0,0,0,,it will suffice
+Dialogue: 0,0:07:17.36,0:07:19.77,Default,,0,0,0,,it will suffice.
 Dialogue: 0,0:07:22.44,0:07:24.99,Default,,0,0,0,,"Is this true love?"
 Dialogue: 0,0:07:25.45,0:07:28.99,Default,,0,0,0,,"I feel at ease with you."
 Dialogue: 0,0:07:29.20,0:07:31.29,Default,,0,0,0,,"We're compatible."
@@ -116,16 +115,16 @@ Dialogue: 0,0:08:11.91,0:08:13.70,Default,,0,0,0,,so I felt strange.
 Dialogue: 0,0:08:14.29,0:08:16.91,Default,,0,0,0,,Huh? Do I look strange?
 Dialogue: 0,0:08:17.50,0:08:21.21,Default,,0,0,0,,No, not at all\NYou look just right.
 Dialogue: 0,0:08:22.09,0:08:23.50,Default,,0,0,0,,Like my room?
-Dialogue: 0,0:08:28.26,0:08:29.26,Default,,0,0,0,,Probably.
+Dialogue: 0,0:08:28.26,0:08:29.26,Default,,0,0,0,,Kind of.
 Dialogue: 0,0:08:29.68,0:08:34.56,Default,,0,0,0,,I like it because only \Nmy favorite things are here.
 Dialogue: 0,0:08:38.02,0:08:40.35,Default,,0,0,0,,Including me?
-Dialogue: 0,0:08:41.40,0:08:45.07,Default,,0,0,0,,Yup. You're one of the better ones.
+Dialogue: 0,0:08:41.40,0:08:45.07,Default,,0,0,0,,Yup. You're apart of the collection.
 Dialogue: 0,0:08:45.86,0:08:48.90,Default,,0,0,0,,I'm okay here.
 Dialogue: 0,0:08:49.57,0:08:51.57,Default,,0,0,0,,I like coming back here.
 Dialogue: 0,0:08:55.12,0:08:56.20,Default,,0,0,0,,I'm home, mother.
 Dialogue: 0,0:08:59.42,0:09:02.08,Default,,0,0,0,,Listen, your sister...
 Dialogue: 0,0:09:03.09,0:09:04.71,Default,,0,0,0,,You listening?
-Dialogue: 0,0:09:04.88,0:09:07.42,Default,,0,0,0,,She never listened to her mother. {TODO}
+Dialogue: 0,0:09:04.88,0:09:07.42,Default,,0,0,0,,She never listened to her mother.
 Dialogue: 0,0:09:07.59,0:09:09.72,Default,,0,0,0,,It's too late for regrets now!
 Dialogue: 0,0:09:09.84,0:09:13.26,Default,,0,0,0,,Listen to me, \N or you'll end up like your sister!
 Dialogue: 0,0:09:15.81,0:09:19.60,Default,,0,0,0,,Both of you share that man's blood.
@@ -145,7 +144,7 @@ Dialogue: 0,0:09:58.72,0:10:01.31,Default,,0,0,0,,if you keep up this selfish be
 Dialogue: 0,0:10:01.81,0:10:03.98,Default,,0,0,0,,you'll pay for it.
 Dialogue: 0,0:10:04.86,0:10:06.48,Default,,0,0,0,,I swear you will.
 Dialogue: 0,0:10:08.15,0:10:12.28,Default,,0,0,0,,You, you, you...
-Dialogue: 0,0:10:12.66,0:10:15.49,Default,,0,0,0,,How dare you talk to me that way
+Dialogue: 0,0:10:12.66,0:10:15.49,Default,,0,0,0,,How dare you talk to me that way?!
 Dialogue: 0,0:10:15.66,0:10:19.50,Default,,0,0,0,,Your father tortured me,\Ndoing whatever he wanted,
 Dialogue: 0,0:10:19.62,0:10:24.17,Default,,0,0,0,,and now my own daughter\Nhates me so much!
 Dialogue: 0,0:10:24.50,0:10:27.50,Default,,0,0,0,,What's the point of living...
@@ -158,92 +157,90 @@ Dialogue: 0,0:11:27.90,0:11:30.57,Default,,0,0,0,,Probably, your birthday, right
 Dialogue: 0,0:11:30.90,0:11:34.90,Default,,0,0,0,,That's right\NSo let's play together again!
 Dialogue: 0,0:11:35.15,0:11:38.07,Default,,0,0,0,,I don't want to be alone\Non my birthday.
 Dialogue: 0,0:12:59.20,0:13:00.78,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:13:02.41,0:13:06.50,Default,,0,0,0,,Rainy days are days\Nfor my father and sister
-Dialogue: 0,0:13:07.79,0:13:09.79,Default,,0,0,0,,They're both dead
+Dialogue: 0,0:13:02.41,0:13:06.50,Default,,0,0,0,,Rainy days are days\Nfor my father and sister.
+Dialogue: 0,0:13:07.79,0:13:09.79,Default,,0,0,0,,They're both dead...
 Dialogue: 0,0:13:11.71,0:13:14.34,Default,,0,0,0,,And tomorrow's my birthday...
-Dialogue: 0,0:13:15.30,0:13:17.97,Default,,0,0,0,,No doubt for her, the truth
-Dialogue: 0,0:13:18.09,0:13:20.51,Default,,0,0,0,,is only an enemy that wounds her
+Dialogue: 0,0:13:15.30,0:13:20.51,Default,,0,0,0,,No doubt for her, the truth is only \Nan enemy that wounds her.
 Dialogue: 0,0:13:21.01,0:13:26.02,Default,,0,0,0,,The days of her life pass in\Nloneliness, a darkness without exit
-Dialogue: 0,0:13:26.43,0:13:31.19,Default,,0,0,0,,I longed to ease her sadness\Nand anxiety, if only a little
-Dialogue: 0,0:13:31.94,0:13:35.86,Default,,0,0,0,,Even if only to atone\Nfor my own past
-Dialogue: 0,0:13:57.34,0:13:59.05,Default,,0,0,0,,Can I be with you?
-Dialogue: 0,0:14:00.30,0:14:01.34,Default,,0,0,0,,Yeah
+Dialogue: 0,0:13:26.43,0:13:31.19,Default,,0,0,0,,I longed to ease her sadness\Nand anxiety, even if only a little.
+Dialogue: 0,0:13:31.94,0:13:35.86,Default,,0,0,0,,Even if only to atone for my own past.
+Dialogue: 0,0:13:57.34,0:13:59.05,Default,,0,0,0,,Can I come with you?
+Dialogue: 0,0:14:00.30,0:14:01.34,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:14:05.51,0:14:07.56,Default,,0,0,0,,Know what tomorrow is?
-Dialogue: 0,0:14:08.31,0:14:10.56,Default,,0,0,0,,Tomorrow's your birthday
+Dialogue: 0,0:14:08.31,0:14:10.56,Default,,0,0,0,,Tomorrow's your birthday.
 Dialogue: 0,0:14:21.07,0:14:22.07,Default,,0,0,0,,The time is
 Dialogue: 0,0:14:22.24,0:14:23.53,Default,,0,0,0,,5:59AM
 Dialogue: 0,0:14:23.66,0:14:24.66,Default,,0,0,0,,and
-Dialogue: 0,0:14:24.74,0:14:26.41,Default,,0,0,0,,30 seconds
+Dialogue: 0,0:14:24.74,0:14:26.41,Default,,0,0,0,,30 seconds.
 Dialogue: 0,0:14:30.91,0:14:32.25,Default,,0,0,0,,The time is
 Dialogue: 0,0:14:32.41,0:14:33.58,Default,,0,0,0,,5:59AM
 Dialogue: 0,0:14:33.75,0:14:34.75,Default,,0,0,0,,and
-Dialogue: 0,0:14:34.79,0:14:36.25,Default,,0,0,0,,40 seconds
+Dialogue: 0,0:14:34.79,0:14:36.25,Default,,0,0,0,,40 seconds.
 Dialogue: 0,0:14:40.92,0:14:42.09,Default,,0,0,0,,The time is
 Dialogue: 0,0:14:42.26,0:14:43.59,Default,,0,0,0,,5:59AM
 Dialogue: 0,0:14:43.76,0:14:44.59,Default,,0,0,0,,and
-Dialogue: 0,0:14:44.76,0:14:46.26,Default,,0,0,0,,50 seconds
+Dialogue: 0,0:14:44.76,0:14:46.26,Default,,0,0,0,,50 seconds.
 Dialogue: 0,0:14:50.93,0:14:52.77,Default,,0,0,0,,The time is exactly
-Dialogue: 0,0:14:52.89,0:14:54.44,Default,,0,0,0,,6AM
+Dialogue: 0,0:14:52.89,0:14:54.44,Default,,0,0,0,,6AM.
 Dialogue: 0,0:15:00.94,0:15:02.19,Default,,0,0,0,,The time is
 Dialogue: 0,0:15:02.32,0:15:03.03,Default,,0,0,0,,6AM
-Dialogue: 0,0:15:03.15,0:15:04.61,Default,,0,0,0,,and 10 seconds
+Dialogue: 0,0:15:03.15,0:15:04.61,Default,,0,0,0,,and 10 seconds.
 Dialogue: 0,0:15:10.62,0:15:11.95,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:15:41.07,0:15:42.82,Default,,0,0,0,,I'm going to
-Dialogue: 0,0:15:43.07,0:15:46.28,Default,,0,0,0,,give you a tour of my house
+Dialogue: 0,0:15:41.07,0:15:46.28,Default,,0,0,0,,I'm going to give you a tour of my house.
 Dialogue: 0,0:15:46.66,0:15:48.16,Default,,0,0,0,,First,
-Dialogue: 0,0:15:48.95,0:15:50.33,Default,,0,0,0,,this is,
-Dialogue: 0,0:15:50.78,0:15:53.16,Default,,0,0,0,,the secret 4th floor
+Dialogue: 0,0:15:48.95,0:15:50.33,Default,,0,0,0,,this is...
+Dialogue: 0,0:15:50.78,0:15:53.16,Default,,0,0,0,,the secret fourth floor!
 Dialogue: 0,0:15:54.75,0:15:57.33,Default,,0,0,0,,And this...
-Dialogue: 0,0:16:07.18,0:16:08.68,Default,,0,0,0,,This is Lucy
+Dialogue: 0,0:16:07.18,0:16:08.68,Default,,0,0,0,,This is Lucy.
 Dialogue: 0,0:16:30.91,0:16:32.53,Default,,0,0,0,,The secret...
-Dialogue: 0,0:16:32.99,0:16:34.04,Default,,0,0,0,,3rd floor
+Dialogue: 0,0:16:32.99,0:16:34.04,Default,,0,0,0,,third floor!
 Dialogue: 0,0:16:36.58,0:16:39.37,Default,,0,0,0,,And this is...
-Dialogue: 0,0:16:43.88,0:16:45.51,Default,,0,0,0,,the secret
-Dialogue: 0,0:16:46.05,0:16:47.05,Default,,0,0,0,,2nd floor
+Dialogue: 0,0:16:43.88,0:16:45.51,Default,,0,0,0,,the secret...
+Dialogue: 0,0:16:46.05,0:16:47.05,Default,,0,0,0,,second floor!
 Dialogue: 0,0:16:50.26,0:16:53.39,Default,,0,0,0,,And this is...
-Dialogue: 0,0:16:54.14,0:16:55.72,Default,,0,0,0,,the secret
-Dialogue: 0,0:16:56.56,0:16:57.68,Default,,0,0,0,,1st floor
-Dialogue: 0,0:17:00.81,0:17:02.52,Default,,0,0,0,,There's a basement
+Dialogue: 0,0:16:54.14,0:16:55.72,Default,,0,0,0,,the secret...
+Dialogue: 0,0:16:56.56,0:16:57.68,Default,,0,0,0,,first floor!
+Dialogue: 0,0:17:00.81,0:17:02.52,Default,,0,0,0,,There's a basement.
 Dialogue: 0,0:17:03.69,0:17:04.32,Default,,0,0,0,,No!
 Dialogue: 0,0:17:04.44,0:17:07.19,Default,,0,0,0,,That's absolutely secret!\NYou can't go in there!
 Dialogue: 0,0:17:09.57,0:17:12.57,Default,,0,0,0,,And this is...
-Dialogue: 0,0:17:13.91,0:17:15.70,Default,,0,0,0,,the secret
-Dialogue: 0,0:17:16.95,0:17:17.95,Default,,0,0,0,,5th floor
-Dialogue: 0,0:17:19.87,0:17:22.88,Default,,0,0,0,,And this is
-Dialogue: 0,0:17:25.09,0:17:26.59,Default,,0,0,0,,the secret
+Dialogue: 0,0:17:13.91,0:17:15.70,Default,,0,0,0,,the secret...
+Dialogue: 0,0:17:16.95,0:17:17.95,Default,,0,0,0,,fifth floor!
+Dialogue: 0,0:17:19.87,0:17:22.88,Default,,0,0,0,,And this is...
+Dialogue: 0,0:17:25.09,0:17:26.59,Default,,0,0,0,,the secret...
 Dialogue: 0,0:17:27.55,0:17:28.55,Default,,0,0,0,,What?
-Dialogue: 0,0:17:29.09,0:17:30.22,Default,,0,0,0,,6th floor
-Dialogue: 0,0:17:30.34,0:17:32.76,Default,,0,0,0,,And this is
-Dialogue: 0,0:17:33.68,0:17:35.43,Default,,0,0,0,,the secret
-Dialogue: 0,0:17:39.43,0:17:40.44,Default,,0,0,0,,7th floor!
+Dialogue: 0,0:17:29.09,0:17:30.22,Default,,0,0,0,,Sixth floor.
+Dialogue: 0,0:17:30.34,0:17:32.76,Default,,0,0,0,,And this is...
+Dialogue: 0,0:17:33.68,0:17:35.43,Default,,0,0,0,,the secret...
+Dialogue: 0,0:17:39.43,0:17:40.44,Default,,0,0,0,,Seventh floor!
 Dialogue: 0,0:17:42.90,0:17:44.61,Default,,0,0,0,,Why are they all secret?
 Dialogue: 0,0:17:44.73,0:17:46.23,Default,,0,0,0,,Because...
-Dialogue: 0,0:17:47.44,0:17:49.78,Default,,0,0,0,,they're our secret
+Dialogue: 0,0:17:47.44,0:17:49.78,Default,,0,0,0,,they're our secret.
 Dialogue: 0,0:17:49.90,0:17:52.11,Default,,0,0,0,,And finally...
-Dialogue: 0,0:17:52.70,0:17:54.07,Default,,0,0,0,,This is
-Dialogue: 0,0:17:54.20,0:17:55.74,Default,,0,0,0,,the secret
+Dialogue: 0,0:17:52.70,0:17:54.07,Default,,0,0,0,,This is...
+Dialogue: 0,0:17:54.20,0:17:55.74,Default,,0,0,0,,the secret...
 Dialogue: 0,0:17:56.16,0:17:57.16,Default,,0,0,0,,roof!
-Dialogue: 0,0:17:58.33,0:18:02.12,Default,,0,0,0,,These... stairs...\NI'm beat
+Dialogue: 0,0:17:58.33,0:18:02.12,Default,,0,0,0,,These... stairs...\NI'm beat.
 Dialogue: 0,0:18:04.96,0:18:06.30,Default,,0,0,0,,Getting old...
 Dialogue: 0,0:18:08.96,0:18:10.88,Default,,0,0,0,,You like high places?
-Dialogue: 0,0:18:11.01,0:18:12.63,Default,,0,0,0,,Not really
-Dialogue: 0,0:18:13.30,0:18:14.64,Default,,0,0,0,,I do
-Dialogue: 0,0:18:15.10,0:18:18.64,Default,,0,0,0,,Sometimes, I come here to check
+Dialogue: 0,0:18:11.01,0:18:12.63,Default,,0,0,0,,Not really.
+Dialogue: 0,0:18:13.30,0:18:14.64,Default,,0,0,0,,I do.
+Dialogue: 0,0:18:15.10,0:18:18.64,Default,,0,0,0,,Sometimes, I come here to check.
 Dialogue: 0,0:18:18.81,0:18:19.98,Default,,0,0,0,,Check what?
-Dialogue: 0,0:18:21.64,0:18:23.31,Default,,0,0,0,,That I'm still OK
-Dialogue: 0,0:18:46.38,0:18:48.00,Default,,0,0,0,,The sky is pretty
-Dialogue: 0,0:18:48.13,0:18:49.67,Default,,0,0,0,,The stars are pretty
-Dialogue: 0,0:18:49.84,0:18:51.51,Default,,0,0,0,,The moon is pretty
-Dialogue: 0,0:18:51.63,0:18:53.34,Default,,0,0,0,,The light is pretty
+Dialogue: 0,0:18:21.64,0:18:23.31,Default,,0,0,0,,That I'm still okay.
+Dialogue: 0,0:18:46.38,0:18:48.00,Default,,0,0,0,,The sky is pretty.
+Dialogue: 0,0:18:48.13,0:18:49.67,Default,,0,0,0,,The stars are pretty.
+Dialogue: 0,0:18:49.84,0:18:51.51,Default,,0,0,0,,The moon is pretty.
+Dialogue: 0,0:18:51.63,0:18:53.34,Default,,0,0,0,,The light is pretty.
 Dialogue: 0,0:18:53.68,0:18:55.97,Default,,0,0,0,,If I don't exist,
-Dialogue: 0,0:18:56.30,0:18:57.80,Default,,0,0,0,,everything's pretty
-Dialogue: 0,0:18:58.14,0:19:00.68,Default,,0,0,0,,Maybe it's better\Nif I didn't exist
+Dialogue: 0,0:18:56.30,0:18:57.80,Default,,0,0,0,,everything's pretty.
+Dialogue: 0,0:18:58.14,0:19:00.68,Default,,0,0,0,,Maybe it's better\Nif I didn't exist.
 Dialogue: 0,0:19:02.43,0:19:04.65,Default,,0,0,0,,How about my blood?
-Dialogue: 0,0:19:05.27,0:19:07.36,Default,,0,0,0,,Maybe it's pretty
-Dialogue: 0,0:19:09.78,0:19:10.86,Default,,0,0,0,,Maybe I'll look
-Dialogue: 0,0:19:25.00,0:19:26.88,Default,,0,0,0,,See, I'm still OK
-Dialogue: 0,0:19:27.33,0:19:29.17,Default,,0,0,0,,I didn't let go
-Dialogue: 0,0:19:31.05,0:19:32.38,Default,,0,0,0,,Still OK to be alive
+Dialogue: 0,0:19:05.27,0:19:07.36,Default,,0,0,0,,Maybe it's pretty.
+Dialogue: 0,0:19:09.78,0:19:10.86,Default,,0,0,0,,Maybe I'll look.
+Dialogue: 0,0:19:25.00,0:19:26.88,Default,,0,0,0,,See, I'm still okay.
+Dialogue: 0,0:19:27.33,0:19:29.17,Default,,0,0,0,,I didn't let go.
+Dialogue: 0,0:19:31.05,0:19:32.38,Default,,0,0,0,,Still okay to be alive.
 Dialogue: 0,0:19:50.27,0:19:52.57,Default,,0,0,0,,A blank-faced mosquito falls
 Dialogue: 0,0:19:52.73,0:19:53.74,Default,,0,0,0,,A huge mosquito
 Dialogue: 0,0:19:53.90,0:19:56.36,Default,,0,0,0,,Much, much bigger than I
