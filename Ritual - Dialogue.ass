@@ -36,23 +36,23 @@ Dialogue: 0,0:02:23.56,0:02:25.02,Default,,0,0,0,,my...
 Dialogue: 0,0:02:25.23,0:02:26.19,Default,,0,0,0,,birthday!
 Dialogue: 0,0:02:26.35,0:02:29.19,Mask,,0,0,0,,aaaaaaaaaaaa
 Dialogue: 10,0:02:26.35,0:02:29.19,Sign,,0,0,0,,RITUAL
-Dialogue: 0,0:02:41.58,0:02:45.04,Default,,0,0,0,,I'm still spiraling.
-Dialogue: 0,0:02:45.33,0:02:48.21,Default,,0,0,0,,It's a dark, lonely place.
-Dialogue: 0,0:02:48.80,0:02:53.05,Default,,0,0,0,,I thought you could maybe rescue me.
-Dialogue: 0,0:02:53.88,0:02:56.89,Default,,0,0,0,,Somehow, I still feel that way.
-Dialogue: 0,0:02:57.80,0:03:00.06,Default,,0,0,0,,I'm not sure what to do...
-Dialogue: 0,0:03:00.56,0:03:03.89,Default,,0,0,0,,But I'm moved by the scent of rain.
+Dialogue: 0,0:02:41.58,0:02:45.04,Default,,0,0,0,,{\i1}I'm still spiraling.
+Dialogue: 0,0:02:45.33,0:02:48.21,Default,,0,0,0,,{\i1}It's a dark, lonely feeling.
+Dialogue: 0,0:02:48.80,0:02:53.05,Default,,0,0,0,,{\i1}I thought you could maybe rescue me.
+Dialogue: 0,0:02:53.88,0:02:56.89,Default,,0,0,0,,{\i1}Somehow, I still feel that way.
+Dialogue: 0,0:02:57.80,0:03:00.06,Default,,0,0,0,,{\i1}I'm not sure what to do...
+Dialogue: 0,0:03:00.56,0:03:03.89,Default,,0,0,0,,{\i1}But I'm moved by the scent of rain.
 Dialogue: 0,0:03:04.35,0:03:06.35,Default,,0,0,0,,Thank you for the smokes.
 Dialogue: 0,0:03:08.06,0:03:09.40,Default,,0,0,0,,And...
 Dialogue: 0,0:03:11.03,0:03:12.74,Default,,0,0,0,,Happy Birthday.
 Dialogue: 0,0:03:14.20,0:03:15.24,Default,,0,0,0,,No!
 Dialogue: 0,0:03:16.41,0:03:18.57,Default,,0,0,0,,Tomorrow's my birthday.
 Dialogue: 0,0:03:43.56,0:03:48.60,Default,,0,0,0,,The simple act of pursuing her was sufficient.
-Dialogue: 0,0:03:48.77,0:03:52.94,Default,,0,0,0,,Having reached an impasse\Nin my work and in myself,
-Dialogue: 0,0:03:53.11,0:03:55.11,Default,,0,0,0,,I sought to acquaint myself
-Dialogue: 0,0:03:55.28,0:03:59.12,Default,,0,0,0,,with everyday ennui,\Nsired by apathy and restlessness.
-Dialogue: 0,0:03:59.82,0:04:02.79,Default,,0,0,0,,Ever-fleeing the authenticity\Nof my own experience,
-Dialogue: 0,0:04:02.95,0:04:09.25,Default,,0,0,0,,I was entirely spent by a life, \Ncomposed of accumulated fictions.
+Dialogue: 0,0:03:48.77,0:03:52.94,Default,,0,0,0,,{\i1}Having reached an impasse\Nin my work and in myself,
+Dialogue: 0,0:03:53.11,0:03:55.11,Default,,0,0,0,,{\i1}I sought to acquaint myself
+Dialogue: 0,0:03:55.28,0:03:59.12,Default,,0,0,0,,{\i1}with everyday ennui,\Nsired by apathy and restlessness.
+Dialogue: 0,0:03:59.82,0:04:02.79,Default,,0,0,0,,{\i1}Ever-fleeing the authenticity\Nof my own experience,
+Dialogue: 0,0:04:02.95,0:04:09.25,Default,,0,0,0,,{\i1}I was entirely spent by a life, \Ncomposed of accumulated fictions.
 Dialogue: 0,0:04:15.97,0:04:16.97,Default,,0,0,0,,Um...
 Dialogue: 0,0:04:17.68,0:04:19.01,Default,,0,0,0,,are you always alone?
 Dialogue: 0,0:04:19.93,0:04:21.64,Default,,0,0,0,,Not today.
@@ -160,10 +160,10 @@ Dialogue: 0,0:12:59.20,0:13:00.78,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:13:02.41,0:13:06.50,Default,,0,0,0,,Rainy days are days\Nfor my father and sister.
 Dialogue: 0,0:13:07.79,0:13:09.79,Default,,0,0,0,,They're both dead...
 Dialogue: 0,0:13:11.71,0:13:14.34,Default,,0,0,0,,And tomorrow's my birthday...
-Dialogue: 0,0:13:15.30,0:13:20.51,Default,,0,0,0,,No doubt for her, the truth is only \Nan enemy that wounds her.
-Dialogue: 0,0:13:21.01,0:13:26.02,Default,,0,0,0,,The days of her life pass in\Nloneliness, a darkness without exit
-Dialogue: 0,0:13:26.43,0:13:31.19,Default,,0,0,0,,I longed to ease her sadness\Nand anxiety, even if only a little.
-Dialogue: 0,0:13:31.94,0:13:35.86,Default,,0,0,0,,Even if only to atone for my own past.
+Dialogue: 0,0:13:15.30,0:13:20.51,Default,,0,0,0,,{\i1}No doubt for her, the truth is only \Nan enemy that wounds her.
+Dialogue: 0,0:13:21.01,0:13:26.02,Default,,0,0,0,,{\i1}The days of her life pass in\Nloneliness, a darkness without exit
+Dialogue: 0,0:13:26.43,0:13:31.19,Default,,0,0,0,,{\i1}I longed to ease her sadness\Nand anxiety, even if only a little.
+Dialogue: 0,0:13:31.94,0:13:35.86,Default,,0,0,0,,{\i1}Even if only to atone for my own past.
 Dialogue: 0,0:13:57.34,0:13:59.05,Default,,0,0,0,,Can I come with you?
 Dialogue: 0,0:14:00.30,0:14:01.34,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:14:05.51,0:14:07.56,Default,,0,0,0,,Know what tomorrow is?
@@ -241,64 +241,63 @@ Dialogue: 0,0:19:09.78,0:19:10.86,Default,,0,0,0,,Maybe I'll look.
 Dialogue: 0,0:19:25.00,0:19:26.88,Default,,0,0,0,,See, I'm still okay.
 Dialogue: 0,0:19:27.33,0:19:29.17,Default,,0,0,0,,I didn't let go.
 Dialogue: 0,0:19:31.05,0:19:32.38,Default,,0,0,0,,Still okay to be alive.
-Dialogue: 0,0:19:50.27,0:19:52.57,Default,,0,0,0,,A blank-faced mosquito falls
-Dialogue: 0,0:19:52.73,0:19:53.74,Default,,0,0,0,,A huge mosquito
-Dialogue: 0,0:19:53.90,0:19:56.36,Default,,0,0,0,,Much, much bigger than I
-Dialogue: 0,0:19:56.49,0:19:58.57,Default,,0,0,0,,It slumps and is still
-Dialogue: 0,0:19:58.91,0:20:02.24,Default,,0,0,0,,A much larger creature caught it
-Dialogue: 0,0:20:02.58,0:20:06.25,Default,,0,0,0,,and took flight, the mosquito\Nin its grasp
-Dialogue: 0,0:20:06.75,0:20:10.34,Default,,0,0,0,,It flew up and\Npassed right over me
-Dialogue: 0,0:20:10.46,0:20:14.42,Default,,0,0,0,,But it released its grasp and\Nthe mosquito fell
-Dialogue: 0,0:20:14.97,0:20:16.88,Default,,0,0,0,,Still blank
-Dialogue: 0,0:20:17.01,0:20:19.43,Default,,0,0,0,,It drifted down, down, down
+Dialogue: 0,0:19:50.27,0:19:52.57,Default,,0,0,0,,A blank-faced mosquito falls.
+Dialogue: 0,0:19:52.73,0:19:53.74,Default,,0,0,0,,A huge mosquito,
+Dialogue: 0,0:19:53.90,0:19:56.36,Default,,0,0,0,,much bigger than me.
+Dialogue: 0,0:19:56.49,0:19:58.57,Default,,0,0,0,,It slumps and is still.
+Dialogue: 0,0:19:58.91,0:20:02.24,Default,,0,0,0,,A much larger creature caught it,
+Dialogue: 0,0:20:02.58,0:20:06.25,Default,,0,0,0,,and took flight, \Nwith the mosquito in its grasp.
+Dialogue: 0,0:20:06.75,0:20:10.34,Default,,0,0,0,,It flew up, \Nand passed right over me.
+Dialogue: 0,0:20:10.46,0:20:14.42,Default,,0,0,0,,But it released its grasp and\Nthe mosquito fell.
+Dialogue: 0,0:20:14.97,0:20:16.88,Default,,0,0,0,,Still lifeless,
+Dialogue: 0,0:20:17.01,0:20:19.43,Default,,0,0,0,,it drifted down, down, down.
 Dialogue: 0,0:20:21.43,0:20:22.60,Default,,0,0,0,,What's that?
-Dialogue: 0,0:20:22.76,0:20:24.77,Default,,0,0,0,,The inside of my head
-Dialogue: 0,0:20:25.77,0:20:27.94,Default,,0,0,0,,Such an interesting head
-Dialogue: 0,0:20:28.10,0:20:30.23,Default,,0,0,0,,It's your turn
-Dialogue: 0,0:20:30.36,0:20:32.23,Default,,0,0,0,,to talk
-Dialogue: 0,0:20:33.02,0:20:34.44,Default,,0,0,0,,About what?
-Dialogue: 0,0:20:35.11,0:20:36.45,Default,,0,0,0,,Something
-Dialogue: 0,0:20:37.11,0:20:38.95,Default,,0,0,0,,Something, huh
-Dialogue: 0,0:20:39.11,0:20:42.45,Default,,0,0,0,,Anything I want to hear you talk
-Dialogue: 0,0:20:45.87,0:20:47.62,Default,,0,0,0,,You know FireMan?
-Dialogue: 0,0:20:48.12,0:20:49.42,Default,,0,0,0,,No
+Dialogue: 0,0:20:22.76,0:20:24.77,Default,,0,0,0,,The inside of my head.
+Dialogue: 0,0:20:25.77,0:20:27.94,Default,,0,0,0,,Such an interesting head.
+Dialogue: 0,0:20:28.10,0:20:30.23,Default,,0,0,0,,Your turn.
+Dialogue: 0,0:20:30.36,0:20:32.23,Default,,0,0,0,,Tell me something about you. 
+Dialogue: 0,0:20:33.02,0:20:34.44,Default,,0,0,0,,Like what?
+Dialogue: 0,0:20:35.11,0:20:36.45,Default,,0,0,0,,Anything.
+Dialogue: 0,0:20:37.11,0:20:38.95,Default,,0,0,0,,Anything, huh.
+Dialogue: 0,0:20:39.11,0:20:42.45,Default,,0,0,0,,Anything. I want to hear you talk.
+Dialogue: 0,0:20:45.87,0:20:47.62,Default,,0,0,0,,You know Fireman?
+Dialogue: 0,0:20:48.12,0:20:49.42,Default,,0,0,0,,No.
 Dialogue: 0,0:20:49.88,0:20:52.71,Default,,0,0,0,,Well, when I was a kid,
-Dialogue: 0,0:20:52.84,0:20:54.96,Default,,0,0,0,,he was like UltraMan
-Dialogue: 0,0:20:56.21,0:21:00.43,Default,,0,0,0,,His enemies attack him\Nand in the end, he dies
-Dialogue: 0,0:21:00.59,0:21:02.60,Default,,0,0,0,,He ignites
-Dialogue: 0,0:21:03.10,0:21:04.14,Default,,0,0,0,,So he dies
-Dialogue: 0,0:21:04.31,0:21:07.64,Default,,0,0,0,,FireMan ends up burning
+Dialogue: 0,0:20:52.84,0:20:54.96,Default,,0,0,0,,he was like Ultraman.
+Dialogue: 0,0:20:56.21,0:21:00.43,Default,,0,0,0,,His enemies attack him,\Nand in the end, he dies.
+Dialogue: 0,0:21:00.59,0:21:02.60,Default,,0,0,0,,He ignites,
+Dialogue: 0,0:21:03.10,0:21:04.14,Default,,0,0,0,,and he dies.
+Dialogue: 0,0:21:04.31,0:21:07.64,Default,,0,0,0,,Fireman ends up burning.
 Dialogue: 0,0:21:08.94,0:21:13.44,Default,,0,0,0,,He yells "Fire!" but\Nactually he's afraid of fire...
-Dialogue: 0,0:21:17.78,0:21:20.45,Default,,0,0,0,,Maybe he's FireMan\N'cause he burns
-Dialogue: 0,0:21:21.32,0:21:23.49,Default,,0,0,0,,But that wasn't what you wanted
-Dialogue: 0,0:21:23.66,0:21:26.50,Default,,0,0,0,,I don't really get it,\Nbut it's interesting
-Dialogue: 0,0:21:26.87,0:21:30.00,Default,,0,0,0,,That's what she says,\Nbut I wonder...
-Dialogue: 0,0:21:30.25,0:21:34.50,Default,,0,0,0,,Actually, all she wanted was\Nto hear someone's voice
-Dialogue: 0,0:21:34.84,0:21:39.51,Default,,0,0,0,,Actually, all she wanted was\Nto stop feeling lonely
+Dialogue: 0,0:21:17.78,0:21:20.45,Default,,0,0,0,,Maybe he's Fireman\N'cause he burns.
+Dialogue: 0,0:21:21.32,0:21:23.49,Default,,0,0,0,,But that probably wasn't what you wanted.
+Dialogue: 0,0:21:23.66,0:21:26.50,Default,,0,0,0,,I don't really get it,\Nbut it's interesting.
+Dialogue: 0,0:21:26.87,0:21:30.00,Default,,0,0,0,,{\i1}That's what she says,\Nbut I wonder... {\i0}
+Dialogue: 0,0:21:30.25,0:21:34.50,Default,,0,0,0,,{\i1}Actually, all she wanted was\Nto hear someone's voice.
+Dialogue: 0,0:21:34.84,0:21:39.51,Default,,0,0,0,,{\i1}Actually, all she wanted was\Nto stop feeling lonely.
 Dialogue: 0,0:21:42.18,0:21:44.01,Default,,0,0,0,,Know what tomorrow is?
 Dialogue: 0,0:21:45.51,0:21:46.81,Default,,0,0,0,,Your birthday, right?
-Dialogue: 0,0:22:00.61,0:22:02.36,Default,,0,0,0,,Echoes from the
-Dialogue: 0,0:22:02.49,0:22:06.20,Default,,0,0,0,,creaking arcade roof opening\Nand an all too ordinary sky
+Dialogue: 0,0:22:00.61,0:22:06.20,Default,,0,0,0,,Echoes from the creaking arcade roof opening\Nand an all too ordinary sky {Split this better}
 Dialogue: 0,0:22:07.04,0:22:10.21,Default,,0,0,0,,disturbed my ease
 Dialogue: 0,0:22:12.37,0:22:13.88,Default,,0,0,0,,Can I see you tomorrow?
-Dialogue: 0,0:22:15.71,0:22:17.05,Default,,0,0,0,,If I'm still alive
+Dialogue: 0,0:22:15.71,0:22:17.05,Default,,0,0,0,,If I'm still alive.
 Dialogue: 0,0:22:49.91,0:22:51.58,Default,,0,0,0,,You like cars?
-Dialogue: 0,0:22:52.91,0:22:55.92,Default,,0,0,0,,Not so well as boats and trains,
-Dialogue: 0,0:22:56.50,0:22:57.92,Default,,0,0,0,,but well enough
-Dialogue: 0,0:22:58.59,0:23:00.09,Default,,0,0,0,,I like 'em
-Dialogue: 0,0:23:00.59,0:23:01.59,Default,,0,0,0,,Cars
+Dialogue: 0,0:22:52.91,0:22:55.92,Default,,0,0,0,,Not as much as boats and trains,
+Dialogue: 0,0:22:56.50,0:22:57.92,Default,,0,0,0,,but well enough.
+Dialogue: 0,0:22:58.59,0:23:00.09,Default,,0,0,0,,I like 'em.
+Dialogue: 0,0:23:00.59,0:23:01.59,Default,,0,0,0,,Cars.
 Dialogue: 0,0:23:01.67,0:23:02.92,Default,,0,0,0,,Why?
-Dialogue: 0,0:23:03.09,0:23:05.26,Default,,0,0,0,,Because my big sister did
+Dialogue: 0,0:23:03.09,0:23:05.26,Default,,0,0,0,,Because my big sister did.
 Dialogue: 0,0:23:07.55,0:23:09.26,Default,,0,0,0,,Where were you?
-Dialogue: 0,0:23:11.39,0:23:14.19,Default,,0,0,0,,I was back at the hotel\Ngetting my things
+Dialogue: 0,0:23:11.39,0:23:14.19,Default,,0,0,0,,I was back at the hotel\Ngetting my things.
 Dialogue: 0,0:23:14.31,0:23:16.06,Default,,0,0,0,,That stuff
 Dialogue: 0,0:23:16.77,0:23:20.78,Default,,0,0,0,,No, I mean where\Nwere you 'til now
 Dialogue: 0,0:23:21.86,0:23:24.11,Default,,0,0,0,,I took my usual route here,
 Dialogue: 0,0:23:24.57,0:23:26.95,Default,,0,0,0,,the bookstore, department store,
-Dialogue: 0,0:23:27.28,0:23:28.95,Default,,0,0,0,,and the toy store today
-Dialogue: 0,0:23:29.08,0:23:31.45,Default,,0,0,0,,No
+Dialogue: 0,0:23:27.28,0:23:28.95,Default,,0,0,0,,and the toy store today.
+Dialogue: 0,0:23:29.08,0:23:31.45,Default,,0,0,0,,No!
 Dialogue: 0,0:23:32.58,0:23:37.13,Default,,0,0,0,,I mean where were you\Nbefore you came here!
-Dialogue: 0,0:23:38.46,0:23:41.30,Default,,0,0,0,,Oh... Tokyo
+Dialogue: 0,0:23:38.46,0:23:41.30,Default,,0,0,0,,Oh... Tokyo.
 Dialogue: 0,0:23:43.76,0:23:45.72,Default,,0,0,0,,Why'd you come?
 Dialogue: 0,0:23:45.84,0:23:50.31,Default,,0,0,0,,What? I wanted\Nto think things over
 Dialogue: 0,0:23:50.89,0:23:52.64,Default,,0,0,0,,I was kind of tired
