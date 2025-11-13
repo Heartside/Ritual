@@ -17,7 +17,7 @@ setup = Setup(
     error_on_danger=True,
 )
 
-premux = GlobSearch("./Ritual - Premux.mkv")
+premux = GlobSearch("./Ritual - Premux*.mkv")
 
 premux = Premux(
     premux,

@@ -1,11 +1,12 @@
 ﻿[Script Info]
-Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 804
+LayoutResX: 1920
+LayoutResY: 804
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -670,7 +671,7 @@ Dialogue: 0,0:56:01.03,0:56:03.24,Default,,0,0,0,,I've become my mother.
 Dialogue: 0,0:56:44.82,0:56:45.82,Default,,0,0,0,,Cut it out!
 Dialogue: 0,0:56:47.45,0:56:49.12,Default,,0,0,0,,What are you doing!
 Dialogue: 0,0:57:15.60,0:57:16.98,Default,,0,0,0,,Cut it out!
-Dialogue: 0,0:57:21.98,0:57:23.48,Default,,0,0,0,,Calm down
+Dialogue: 0,0:57:21.98,0:57:23.48,Default,,0,0,0,,Calm down!
 Dialogue: 0,0:57:25.94,0:57:30.16,Default,,0,0,0,,Why?! Why weren't you with me then?!
 Dialogue: 0,0:57:30.41,0:57:31.99,Default,,0,0,0,,Why?!
 Dialogue: 0,0:57:45.09,0:57:46.67,Default,,0,0,0,,Calm down!
@@ -678,10 +679,10 @@ Dialogue: 0,0:57:47.34,0:57:48.84,Default,,0,0,0,,Calm down!
 Dialogue: 0,0:58:41.06,0:58:43.06,Default,,0,0,0,,It's your heart...
 Dialogue: 0,0:58:45.52,0:58:47.53,Default,,0,0,0,,It's beating away...
 Dialogue: 0,0:58:51.70,0:58:53.57,Default,,0,0,0,,A gentle sound...
-Dialogue: 0,0:58:53.95,0:58:56.08,Default,,0,0,0,,I've never heard it before...
+Dialogue: 0,0:58:53.95,0:58:56.08,Default,,0,0,0,,I've never heard it before.
 Dialogue: 0,0:59:24.60,0:59:26.94,Default,,0,0,0,,Don't go anywhere, okay?
-Dialogue: 0,0:59:28.94,0:59:31.94,Default,,0,0,0,,Don't disappear like that, okay?
-Dialogue: 0,0:59:35.62,0:59:38.62,Default,,0,0,0,,Don't ever leave me alone again, okay?
+Dialogue: 0,0:59:28.94,0:59:31.94,Default,,0,0,0,,Don't disappear like that.
+Dialogue: 0,0:59:35.62,0:59:38.62,Default,,0,0,0,,Don't ever leave me alone again.
 Dialogue: 0,0:59:40.79,0:59:42.29,Default,,0,0,0,,Promise?
 Dialogue: 0,0:59:43.87,0:59:47.13,Default,,0,0,0,,Because tomorrow's my birthday.
 Dialogue: 0,0:59:50.09,0:59:53.42,Default,,0,0,0,,Sure... Okay.
@@ -690,101 +691,100 @@ Dialogue: 0,0:59:58.76,1:00:00.97,Default,,0,0,0,,with me on my birthday.
 Dialogue: 0,1:00:02.89,1:00:04.98,Default,,0,0,0,,Forever and ever, okay?
 Dialogue: 0,1:00:21.83,1:00:24.16,Default,,0,0,0,,What are you thinking?
 Dialogue: 0,1:00:24.87,1:00:29.17,Default,,0,0,0,,What? Oh, sorry.
-Dialogue: 0,1:01:19.51,1:01:20.85,Default,,0,0,0,,For real!
+Dialogue: 0,1:01:19.51,1:01:20.85,Default,,0,0,0,,Seriously?!
 Dialogue: 0,1:01:20.97,1:01:24.56,Default,,0,0,0,,Hey, hey, wake up!\NWake up!
-Dialogue: 0,1:01:27.02,1:01:28.39,Default,,0,0,0,,It's past 6!
+Dialogue: 0,1:01:27.02,1:01:28.39,Default,,0,0,0,,It's after 6!
 Dialogue: 0,1:01:38.32,1:01:42.07,Default,,0,0,0,,No... hold on...
-Dialogue: 0,1:01:45.24,1:01:46.91,Default,,0,0,0,,Don't climb
-Dialogue: 0,1:01:51.54,1:01:52.75,Default,,0,0,0,,Up we go
-Dialogue: 0,1:02:15.27,1:02:16.44,Default,,0,0,0,,Yup
-Dialogue: 0,1:02:22.95,1:02:24.28,Default,,0,0,0,,OK?
-Dialogue: 0,1:02:36.63,1:02:39.47,Default,,0,0,0,,Your heart says I'm OK
-Dialogue: 0,1:02:44.97,1:02:47.06,Default,,0,0,0,,There... there...
+Dialogue: 0,1:01:45.24,1:01:46.91,Default,,0,0,0,,Don't climb.
+Dialogue: 0,1:01:51.54,1:01:52.75,Default,,0,0,0,,Up we go.
+Dialogue: 0,1:02:15.27,1:02:16.44,Default,,0,0,0,,Yup.
+Dialogue: 0,1:02:22.95,1:02:24.28,Default,,0,0,0,,Okay?
+Dialogue: 0,1:02:36.63,1:02:39.47,Default,,0,0,0,,Your heart says I'm okay.
+Dialogue: 0,1:02:44.97,1:02:47.06,Default,,0,0,0,,There there.
 Dialogue: 0,1:02:47.18,1:02:49.48,Default,,0,0,0,,Which line today?
-Dialogue: 0,1:02:50.02,1:02:51.14,Default,,0,0,0,,Amusement park
-Dialogue: 0,1:02:53.90,1:02:55.82,Default,,0,0,0,,I can handle this
-Dialogue: 0,1:03:07.33,1:03:09.33,Default,,0,0,0,,Sorry, there's someone scary
+Dialogue: 0,1:02:50.02,1:02:51.14,Default,,0,0,0,,The amusement park!
+Dialogue: 0,1:02:53.90,1:02:55.82,Default,,0,0,0,,I can handle this.
+Dialogue: 0,1:03:07.33,1:03:09.33,Default,,0,0,0,,Sorry, there's someone scary.
 Dialogue: 0,1:03:16.50,1:03:19.17,Default,,0,0,0,,Director! Monkeys!
-Dialogue: 0,1:03:19.34,1:03:21.17,Default,,0,0,0,,Monkeys and goats
-Dialogue: 0,1:03:29.52,1:03:32.18,Default,,0,0,0,,I made a huge\Ndiscovery this morning
-Dialogue: 0,1:03:34.94,1:03:36.48,Default,,0,0,0,,Guess what
-Dialogue: 0,1:03:38.36,1:03:41.36,Default,,0,0,0,,I'm not scared to\Nfall asleep anymore
+Dialogue: 0,1:03:19.34,1:03:21.17,Default,,0,0,0,,Monkeys and goats!
+Dialogue: 0,1:03:29.52,1:03:32.18,Default,,0,0,0,,I made a huge discovery this morning.
+Dialogue: 0,1:03:34.94,1:03:36.48,Default,,0,0,0,,Guess what?
+Dialogue: 0,1:03:38.36,1:03:41.36,Default,,0,0,0,,I'm not scared\N to fall asleep anymore!
 Dialogue: 0,1:03:42.19,1:03:45.03,Default,,0,0,0,,Just because you were with me,
-Dialogue: 0,1:03:45.20,1:03:49.70,Default,,0,0,0,,I could close my eyes\Njust like that
+Dialogue: 0,1:03:45.20,1:03:49.70,Default,,0,0,0,,I could close my eyes\Njust like that.
 Dialogue: 0,1:03:51.29,1:03:52.87,Default,,0,0,0,,And like,
-Dialogue: 0,1:03:54.08,1:03:56.00,Default,,0,0,0,,I wasn't scared at all
-Dialogue: 0,1:03:56.13,1:03:58.54,Default,,0,0,0,,Nothing came crashing down
-Dialogue: 0,1:04:01.51,1:04:05.18,Default,,0,0,0,,Actually, my body\Nfelt really light
+Dialogue: 0,1:03:54.08,1:03:56.00,Default,,0,0,0,,I wasn't scared at all.
+Dialogue: 0,1:03:56.13,1:03:58.54,Default,,0,0,0,,Nothing came crashing down.
+Dialogue: 0,1:04:01.51,1:04:05.18,Default,,0,0,0,,Actually, my body felt really light.
 Dialogue: 0,1:04:05.30,1:04:07.05,Default,,0,0,0,,I could just sleep
 Dialogue: 0,1:04:07.39,1:04:09.35,Default,,0,0,0,,This is amazing!
-Dialogue: 0,1:04:09.47,1:04:13.89,Default,,0,0,0,,This is really amazing\NDo you understand what this means?
+Dialogue: 0,1:04:09.47,1:04:13.89,Default,,0,0,0,,This is really amazing!\NDo you understand what this means?
 Dialogue: 0,1:04:14.02,1:04:16.02,Default,,0,0,0,,Amazing discovery!
-Dialogue: 0,1:04:17.40,1:04:18.40,Default,,0,0,0,,Really
-Dialogue: 0,1:04:30.45,1:04:31.74,Default,,0,0,0,,Great angle
-Dialogue: 0,1:04:32.04,1:04:35.41,Default,,0,0,0,,The wind's not so bad\Nwhen I lie like this
-Dialogue: 0,1:04:35.58,1:04:37.38,Default,,0,0,0,,You're right
-Dialogue: 0,1:04:51.31,1:04:54.43,Default,,0,0,0,,Cuddling is nice, isn't it\NI like it
-Dialogue: 0,1:04:55.14,1:04:56.60,Default,,0,0,0,,Yeah
-Dialogue: 0,1:04:56.94,1:05:00.11,Default,,0,0,0,,In a way, I like this better
-Dialogue: 0,1:05:00.27,1:05:01.61,Default,,0,0,0,,than that
-Dialogue: 0,1:05:02.23,1:05:03.23,Default,,0,0,0,,Don't believe you
-Dialogue: 0,1:05:03.36,1:05:04.61,Default,,0,0,0,,No, really
+Dialogue: 0,1:04:17.40,1:04:18.40,Default,,0,0,0,,Really!
+Dialogue: 0,1:04:30.45,1:04:31.74,Default,,0,0,0,,Great angle.
+Dialogue: 0,1:04:32.04,1:04:35.41,Default,,0,0,0,,The wind's not so bad\Nwhen I lie like this.
+Dialogue: 0,1:04:35.58,1:04:37.38,Default,,0,0,0,,You're right.
+Dialogue: 0,1:04:51.31,1:04:54.43,Default,,0,0,0,,Cuddling is nice, isn't it?\NI like it.
+Dialogue: 0,1:04:55.14,1:04:56.60,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:04:56.94,1:05:01.61,Default,,0,0,0,,In a way, I like this better than... that
+Dialogue: 0,1:05:02.23,1:05:03.23,Default,,0,0,0,,Liar. 
+Dialogue: 0,1:05:03.36,1:05:04.61,Default,,0,0,0,,No, really.
 Dialogue: 0,1:05:06.24,1:05:07.91,Default,,0,0,0,,Huh, well then,
 Dialogue: 0,1:05:08.45,1:05:10.45,Default,,0,0,0,,what do you like about it?
-Dialogue: 0,1:05:11.95,1:05:13.12,Default,,0,0,0,,That it's warm
+Dialogue: 0,1:05:11.95,1:05:13.12,Default,,0,0,0,,That it's warm.
 Dialogue: 0,1:05:13.83,1:05:15.20,Default,,0,0,0,,It's warm...
 Dialogue: 0,1:05:15.33,1:05:16.96,Default,,0,0,0,,For me,
 Dialogue: 0,1:05:17.42,1:05:20.29,Default,,0,0,0,,when I wake up in\Nthe middle of the night,
-Dialogue: 0,1:05:20.96,1:05:22.92,Default,,0,0,0,,you're beside me
-Dialogue: 0,1:05:23.05,1:05:25.59,Default,,0,0,0,,Your face is right there
-Dialogue: 0,1:05:25.71,1:05:29.64,Default,,0,0,0,,It's so reassuring\NAmazing, isn't it?
-Dialogue: 0,1:05:31.14,1:05:32.81,Default,,0,0,0,,I know what you mean
-Dialogue: 0,1:05:33.47,1:05:35.14,Default,,0,0,0,,But your mouth's
-Dialogue: 0,1:05:35.68,1:05:39.48,Default,,0,0,0,,always wide open and you drool
+Dialogue: 0,1:05:20.96,1:05:22.92,Default,,0,0,0,,you're beside me.
+Dialogue: 0,1:05:23.05,1:05:25.59,Default,,0,0,0,,Your face is right there.
+Dialogue: 0,1:05:25.71,1:05:28.28,Default,,0,0,0,,It's so reassuring.
+Dialogue: 0,1:05:28.28,1:05:29.64,Default,,0,0,0,,Amazing, isn't it?
+Dialogue: 0,1:05:31.14,1:05:32.81,Default,,0,0,0,,I know what you mean.
+Dialogue: 0,1:05:33.47,1:05:35.14,Default,,0,0,0,,Though your mouth's...
+Dialogue: 0,1:05:35.68,1:05:39.48,Default,,0,0,0,,always wide open and you drool.
 Dialogue: 0,1:05:41.23,1:05:43.57,Default,,0,0,0,,You... fool!
 Dialogue: 0,1:05:43.69,1:05:45.28,Default,,0,0,0,,Ouch!
-Dialogue: 0,1:05:46.74,1:05:48.15,Default,,0,0,0,,Can you make it?
-Dialogue: 0,1:05:53.70,1:05:56.58,Default,,0,0,0,,All these used tires
-Dialogue: 0,1:05:56.70,1:05:59.46,Default,,0,0,0,,look like people's ex-teeth
-Dialogue: 0,1:06:03.92,1:06:06.34,Default,,0,0,0,,Let me shoot too
-Dialogue: 0,1:06:07.34,1:06:09.51,Default,,0,0,0,,OK? I want to shoot, too
-Dialogue: 0,1:06:09.68,1:06:11.76,Default,,0,0,0,,No, it won't be my film anymore
-Dialogue: 0,1:06:11.89,1:06:13.68,Default,,0,0,0,,Who cares, c'mon
-Dialogue: 0,1:06:13.80,1:06:15.14,Default,,0,0,0,,Let me, let me
-Dialogue: 0,1:06:21.35,1:06:24.86,Default,,0,0,0,,This? This OK?\NIs it working?
-Dialogue: 0,1:06:25.19,1:06:26.48,Default,,0,0,0,,Give it back
-Dialogue: 0,1:06:27.36,1:06:29.53,Default,,0,0,0,,Say something
-Dialogue: 0,1:06:29.65,1:06:30.65,Default,,0,0,0,,Don't shoot me
+Dialogue: 0,1:05:46.74,1:05:48.15,Default,,0,0,0,,Can you make it over?
+Dialogue: 0,1:05:53.70,1:05:59.46,Default,,0,0,0,,All these used tires \Nlook like people's ex-teeth. {ED: This line makes zero sense}
+Dialogue: 0,1:06:03.92,1:06:06.34,Default,,0,0,0,,Let me shoot too.
+Dialogue: 0,1:06:07.34,1:06:09.51,Default,,0,0,0,,Okay? I want to shoot, too.
+Dialogue: 0,1:06:09.68,1:06:11.76,Default,,0,0,0,,No, it won't be my film anymore.
+Dialogue: 0,1:06:11.89,1:06:13.68,Default,,0,0,0,,Who cares? C'mon.
+Dialogue: 0,1:06:13.80,1:06:15.14,Default,,0,0,0,,Let me, let me!
+Dialogue: 0,1:06:21.35,1:06:24.86,Default,,0,0,0,,This okay? \NIs it working?
+Dialogue: 0,1:06:25.19,1:06:26.48,Default,,0,0,0,,Give it back.
+Dialogue: 0,1:06:27.36,1:06:29.53,Default,,0,0,0,,Say something.
+Dialogue: 0,1:06:29.65,1:06:30.65,Default,,0,0,0,,Don't shoot me.
 Dialogue: 0,1:06:31.66,1:06:33.20,Default,,0,0,0,,Why are you upset?
-Dialogue: 0,1:06:33.37,1:06:35.03,Default,,0,0,0,,I'm not upset
-Dialogue: 0,1:06:35.16,1:06:36.20,Default,,0,0,0,,Liar
-Dialogue: 0,1:06:38.00,1:06:39.54,Default,,0,0,0,,It's true
+Dialogue: 0,1:06:33.37,1:06:35.03,Default,,0,0,0,,I'm not upset.
+Dialogue: 0,1:06:35.16,1:06:36.20,Default,,0,0,0,,Liar!
+Dialogue: 0,1:06:38.00,1:06:39.54,Default,,0,0,0,,It's true.
 Dialogue: 0,1:06:40.96,1:06:42.17,Default,,0,0,0,,Do I look upset?
-Dialogue: 0,1:06:42.29,1:06:43.88,Default,,0,0,0,,You do
-Dialogue: 0,1:06:44.17,1:06:45.71,Default,,0,0,0,,I am not upset
+Dialogue: 0,1:06:42.29,1:06:43.88,Default,,0,0,0,,You do!
+Dialogue: 0,1:06:44.17,1:06:45.71,Default,,0,0,0,,I am not upset.
 Dialogue: 0,1:06:50.34,1:06:51.88,Default,,0,0,0,,I wonder...
-Dialogue: 0,1:06:54.85,1:06:56.39,Default,,0,0,0,,I'm tired lately
+Dialogue: 0,1:06:54.85,1:06:56.39,Default,,0,0,0,,I've been tired lately.
 Dialogue: 0,1:06:56.56,1:06:58.06,Default,,0,0,0,,Tired?
-Dialogue: 0,1:06:58.52,1:07:01.14,Default,,0,0,0,,Huh, I see
-Dialogue: 0,1:07:01.27,1:07:03.73,Default,,0,0,0,,So what!
-Dialogue: 0,1:07:10.36,1:07:12.24,Default,,0,0,0,,Want me to mother you?
-Dialogue: 0,1:07:14.74,1:07:16.16,Default,,0,0,0,,Yes, please
-Dialogue: 0,1:07:16.28,1:07:19.54,Default,,0,0,0,,OK, good boy, good boy
-Dialogue: 0,1:07:21.46,1:07:23.21,Default,,0,0,0,,I'll mother you more
-Dialogue: 0,1:07:28.59,1:07:31.05,Default,,0,0,0,,Will you mother me then?
-Dialogue: 0,1:07:33.59,1:07:35.09,Default,,0,0,0,,I want a piggyback
+Dialogue: 0,1:06:58.52,1:07:01.14,Default,,0,0,0,,Huh, I see.
+Dialogue: 0,1:07:01.27,1:07:03.73,Default,,0,0,0,,So what?!
+Dialogue: 0,1:07:10.36,1:07:12.24,Default,,0,0,0,,Want me to baby you?
+Dialogue: 0,1:07:14.74,1:07:16.16,Default,,0,0,0,,Yes, please.
+Dialogue: 0,1:07:16.28,1:07:19.54,Default,,0,0,0,,Okay. \NGood boy, good boy!
+Dialogue: 0,1:07:21.46,1:07:23.21,Default,,0,0,0,,I'll baby you more.
+Dialogue: 0,1:07:28.59,1:07:31.05,Default,,0,0,0,,Will you baby me then?
+Dialogue: 0,1:07:33.59,1:07:35.09,Default,,0,0,0,,I want a piggyback.
 Dialogue: 0,1:07:35.22,1:07:37.39,Default,,0,0,0,,Piggyback?
-Dialogue: 0,1:07:37.51,1:07:38.56,Default,,0,0,0,,Yeah, piggyback
+Dialogue: 0,1:07:37.51,1:07:38.56,Default,,0,0,0,,Yeah, piggyback.
 Dialogue: 0,1:07:38.68,1:07:39.93,Default,,0,0,0,,For real?
-Dialogue: 0,1:07:42.27,1:07:43.94,Default,,0,0,0,,A two-shot
-Dialogue: 0,1:07:55.03,1:07:56.12,Default,,0,0,0,,I'm dizzy
-Dialogue: 0,1:07:56.28,1:07:58.08,Default,,0,0,0,,Dizzy
+Dialogue: 0,1:07:42.27,1:07:43.94,Default,,0,0,0,,A two-shot!
+Dialogue: 0,1:07:55.03,1:07:56.12,Default,,0,0,0,,I'm dizzy!
+Dialogue: 0,1:07:56.28,1:07:58.08,Default,,0,0,0,,Dizzy?
 Dialogue: 0,1:08:04.54,1:08:06.75,Default,,0,0,0,,Know what tomorrow is?
-Dialogue: 0,1:08:10.05,1:08:11.21,Default,,0,0,0,,Sure
-Dialogue: 0,1:08:11.34,1:08:12.42,Default,,0,0,0,,That's right,
-Dialogue: 0,1:08:12.55,1:08:15.97,Default,,0,0,0,,tomorrow's my birthday
-Dialogue: 0,1:08:16.14,1:08:17.60,Default,,0,0,0,,Tomorrow's my birthday
-Dialogue: 0,1:08:17.72,1:08:19.31,Default,,0,0,0,,Tomorrow's my birthday
+Dialogue: 0,1:08:10.05,1:08:11.21,Default,,0,0,0,,Sure.
+Dialogue: 0,1:08:11.34,1:08:12.42,Default,,0,0,0,,That's right!
+Dialogue: 0,1:08:12.55,1:08:15.97,Default,,0,0,0,,Tomorrow's my birthday!
+Dialogue: 0,1:08:16.14,1:08:17.60,Default,,0,0,0,,Tomorrow's my birthday.
+Dialogue: 0,1:08:17.72,1:08:19.31,Default,,0,0,0,,Tomorrow's my birthday.
 Dialogue: 0,1:09:22.91,1:09:24.54,Default,,0,0,0,,Tomorrow's my birthday!
 Dialogue: 0,1:09:44.93,1:09:48.64,Default,,0,0,0,,It's nearly a month\Nsince I met her
 Dialogue: 0,1:09:48.77,1:09:51.56,Default,,0,0,0,,I'm fed up with\Nthe endless "yesterdays,"
