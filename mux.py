@@ -9,8 +9,8 @@ from muxtools import (
 )
 
 setup = Setup(
-    "01",
-    None,
+    episode="01",
+    config_file=None,
     out_dir="out",
     mkv_title_naming="",
     out_name=R"Ritual (2000) (BD 1080p x264 Opus) [$crc32$] [Heartside]",
