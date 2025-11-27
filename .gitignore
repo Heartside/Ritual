@@ -25,3 +25,7 @@ _workdir/
 # Scripts
 !scripts/*
 !mux.py
+
+# Misc
+
+!*Chapters.txt

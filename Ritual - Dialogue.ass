@@ -1,17 +1,16 @@
 ﻿[Script Info]
 ScriptType: v4.00+
-PlayDepth: 0
-ScaledBorderAndShadow: yes
 PlayResX: 1920
 PlayResY: 804
 LayoutResX: 1920
 LayoutResY: 804
 WrapStyle: 0
+ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Lato,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,35,1
+Style: Default,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,35,1
 Style: Note,Lato,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,10,10,35,1
 
 [Events]
@@ -821,7 +820,7 @@ Dialogue: 0,1:12:01.32,1:12:03.36,Default,,0,0,0,,I've gotten really good.
 Dialogue: 0,1:12:03.49,1:12:06.20,Default,,0,0,0,,Oh, it stopped.
 Dialogue: 0,1:12:14.25,1:12:17.00,Default,,0,0,0,,I'm off to the store.
 Dialogue: 0,1:12:44.19,1:12:45.57,Default,,0,0,0,,He hates me?
-Dialogue: 0,1:12:45.90,1:12:47.41,Default,,0,0,0,,Does he? 
+Dialogue: 0,1:12:45.90,1:12:47.41,Default,,0,0,0,,Does he?
 Dialogue: 0,1:12:49.12,1:12:50.03,Default,,0,0,0,,He hates me.
 Dialogue: 0,1:12:50.16,1:12:52.58,Default,,0,0,0,,Hates me, hates me, hates me!
 Dialogue: 0,1:12:54.37,1:12:56.08,Default,,0,0,0,,I'll be left alone again.
