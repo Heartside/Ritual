@@ -15,50 +15,51 @@ Style: Note,Lato,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:10.95,0:01:12.28,Default,,0,0,0,,Do you sell cigarettes?
-Dialogue: 0,0:01:12.45,0:01:14.70,Default,,0,0,0,,We don't carry them.
-Dialogue: 0,0:01:14.83,0:01:16.29,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:01:20.71,0:01:21.92,Default,,0,0,0,,Out of cigarettes?
-Dialogue: 0,0:01:22.04,0:01:23.25,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:01:33.18,0:01:34.47,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:01:40.43,0:01:41.64,Default,,0,0,0,,Ritual.
-Dialogue: 0,0:01:43.31,0:01:44.81,Default,,0,0,0,,It's a ritual.
-Dialogue: 0,0:01:48.40,0:01:50.78,Default,,0,0,0,,Oh, before?\NBy the tracks?
-Dialogue: 0,0:01:52.24,0:01:55.45,Default,,0,0,0,,Yes, I was performing a ritual.
-Dialogue: 0,0:01:57.12,0:02:01.12,Default,,0,0,0,,Oh... sorry I intruded then.
-Dialogue: 0,0:02:03.37,0:02:04.63,Default,,0,0,0,,What's it for?
-Dialogue: 0,0:02:05.84,0:02:07.00,Default,,0,0,0,,It's a secret!
-Dialogue: 0,0:02:14.68,0:02:17.51,Default,,0,0,0,,Do you know what tomorrow is?
-Dialogue: 0,0:02:19.52,0:02:20.52,Default,,0,0,0,,No?
-Dialogue: 0,0:02:21.81,0:02:23.19,Default,,0,0,0,,Tomorrow's
-Dialogue: 0,0:02:23.56,0:02:25.02,Default,,0,0,0,,my
-Dialogue: 0,0:02:25.23,0:02:26.19,Default,,0,0,0,,birthday!
-Dialogue: 0,0:02:41.58,0:02:45.04,Default,,0,0,0,,{\i1}I'm still spiraling.
-Dialogue: 0,0:02:45.33,0:02:48.21,Default,,0,0,0,,{\i1}It's a dark, lonely feeling.
-Dialogue: 0,0:02:48.79,0:02:53.05,Default,,0,0,0,,{\i1}I thought maybe you could rescue me.
-Dialogue: 0,0:02:53.88,0:02:56.89,Default,,0,0,0,,{\i1}Somehow, I still feel that way.
-Dialogue: 0,0:02:57.80,0:03:00.06,Default,,0,0,0,,{\i1}I'm not sure what to do...
-Dialogue: 0,0:03:00.56,0:03:03.89,Default,,0,0,0,,{\i1}But I'm moved by the scent of rain.
-Dialogue: 0,0:03:04.35,0:03:06.35,Default,,0,0,0,,Thanks for those smokes.
-Dialogue: 0,0:03:08.06,0:03:09.40,Default,,0,0,0,,And...
-Dialogue: 0,0:03:11.03,0:03:12.74,Default,,0,0,0,,Happy birthday.
-Dialogue: 0,0:03:14.20,0:03:15.24,Default,,0,0,0,,No!
-Dialogue: 0,0:03:16.41,0:03:18.57,Default,,0,0,0,,Tomorrow's my birthday.
-Dialogue: 0,0:03:43.56,0:03:46.52,Default,,0,0,0,,{\i1}The simple act of pursuing her
-Dialogue: 0,0:03:46.64,0:03:48.60,Default,,0,0,0,,{\i1}was sufficient.
-Dialogue: 0,0:03:48.77,0:03:52.94,Default,,0,0,0,,{\i1}Having reached an impasse\Nin my work and in myself,
-Dialogue: 0,0:03:53.11,0:03:55.11,Default,,0,0,0,,{\i1}I sought to acquaint myself
-Dialogue: 0,0:03:55.28,0:03:59.11,Default,,0,0,0,,{\i1}with everyday ennui,\Nsired by apathy and restlessness.
-Dialogue: 0,0:03:59.82,0:04:02.79,Default,,0,0,0,,{\i1}Ever-fleeing the authenticity\Nof my own experience,
-Dialogue: 0,0:04:02.95,0:04:09.25,Default,,0,0,0,,{\i1}I was entirely spent by a life, \Ncomposed of accumulated fictions.
-Dialogue: 0,0:04:15.97,0:04:16.97,Default,,0,0,0,,Um...
-Dialogue: 0,0:04:17.68,0:04:19.01,Default,,0,0,0,,are you always alone?
-Dialogue: 0,0:04:19.93,0:04:21.64,Default,,0,0,0,,Not today.
-Dialogue: 0,0:04:23.47,0:04:24.81,Default,,0,0,0,,Yesterday?
-Dialogue: 0,0:04:25.98,0:04:27.81,Default,,0,0,0,,Not really.
-Dialogue: 0,0:04:29.14,0:04:30.60,Default,,0,0,0,,Tomorrow?
-Dialogue: 0,0:04:32.48,0:04:34.48,Default,,0,0,0,,I'd rather not be.
-Dialogue: 0,0:04:37.32,0:04:39.66,Default,,0,0,0,,I'd rather not be alone either.
+Dialogue: 0,0:01:10.72,0:01:12.36,Default,,0,0,0,,Do you sell cigarettes?
+Dialogue: 0,0:01:12.36,0:01:14.80,Default,,0,0,0,,We don't carry them.
+Dialogue: 0,0:01:14.80,0:01:16.03,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:01:20.68,0:01:21.97,Default,,0,0,0,,Out of cigarettes?
+Dialogue: 0,0:01:21.97,0:01:22.90,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:01:33.11,0:01:34.10,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:01:40.37,0:01:41.24,Default,,0,0,0,,Ritual.
+Dialogue: 0,0:01:43.34,0:01:44.39,Default,,0,0,0,,It's a ritual.
+Dialogue: 0,0:01:48.35,0:01:50.00,Default,,0,0,0,,Oh, back there?
+Dialogue: 0,0:01:50.00,0:01:50.76,Default,,0,0,0,,By the tracks?
+Dialogue: 0,0:01:52.20,0:01:55.43,Default,,0,0,0,,Yes, I was performing a ritual.
+Dialogue: 0,0:01:57.06,0:02:01.04,Default,,0,0,0,,Oh... sorry I intruded then.
+Dialogue: 0,0:02:03.37,0:02:04.60,Default,,0,0,0,,What's it for?
+Dialogue: 0,0:02:05.52,0:02:06.71,Default,,0,0,0,,It's a secret!
+Dialogue: 0,0:02:14.62,0:02:17.53,Default,,0,0,0,,Say, do you know what tomorrow is?
+Dialogue: 0,0:02:19.86,0:02:20.54,Default,,0,0,0,,No?
+Dialogue: 0,0:02:21.64,0:02:23.52,Default,,0,0,0,,Tomorrow's
+Dialogue: 0,0:02:23.52,0:02:25.11,Default,,0,0,0,,my
+Dialogue: 0,0:02:25.11,0:02:26.29,Default,,0,0,0,,birthday!
+Dialogue: 0,0:02:41.58,0:02:44.69,Default,,0,0,0,,{\i1}I'm still spiraling.
+Dialogue: 0,0:02:45.24,0:02:48.00,Default,,0,0,0,,{\i1}It's a dark, lonely feeling.
+Dialogue: 0,0:02:48.72,0:02:52.87,Default,,0,0,0,,{\i1}I thought maybe you could rescue me.
+Dialogue: 0,0:02:53.83,0:02:56.80,Default,,0,0,0,,{\i1}Somehow, I still feel that way.
+Dialogue: 0,0:02:57.77,0:02:59.93,Default,,0,0,0,,{\i1}I'm not sure what to do...
+Dialogue: 0,0:03:00.52,0:03:03.65,Default,,0,0,0,,{\i1}But I'm moved by the scent of rain.
+Dialogue: 0,0:03:04.32,0:03:06.04,Default,,0,0,0,,Thanks for those smokes.
+Dialogue: 0,0:03:08.06,0:03:09.26,Default,,0,0,0,,And...
+Dialogue: 0,0:03:11.06,0:03:12.54,Default,,0,0,0,,Happy birthday.
+Dialogue: 0,0:03:14.15,0:03:14.55,Default,,0,0,0,,No!
+Dialogue: 0,0:03:16.33,0:03:18.57,Default,,0,0,0,,Tomorrow's my birthday.
+Dialogue: 0,0:03:43.54,0:03:46.62,Default,,0,0,0,,{\i1}The simple act of pursuing her
+Dialogue: 0,0:03:46.62,0:03:48.21,Default,,0,0,0,,{\i1}was sufficient.
+Dialogue: 0,0:03:48.75,0:03:53.10,Default,,0,0,0,,{\i1}Having reached an impasse\Nin my work and in myself,
+Dialogue: 0,0:03:53.10,0:03:55.25,Default,,0,0,0,,{\i1}I sought to acquaint myself
+Dialogue: 0,0:03:55.25,0:03:58.84,Default,,0,0,0,,{\i1}with everyday ennui,\Nsired by apathy and restlessness.
+Dialogue: 0,0:03:59.76,0:04:02.91,Default,,0,0,0,,{\i1}Ever-fleeing the authenticity\Nof my own experience,
+Dialogue: 0,0:04:02.91,0:04:09.17,Default,,0,0,0,,{\i1}I was entirely spent by a life, \Ncomposed of accumulated fictions.
+Dialogue: 0,0:04:16.08,0:04:16.99,Default,,0,0,0,,Um...
+Dialogue: 0,0:04:17.63,0:04:18.99,Default,,0,0,0,,are you always alone?
+Dialogue: 0,0:04:19.89,0:04:21.51,Default,,0,0,0,,Not today.
+Dialogue: 0,0:04:23.44,0:04:24.43,Default,,0,0,0,,Yesterday?
+Dialogue: 0,0:04:25.97,0:04:27.55,Default,,0,0,0,,Not really.
+Dialogue: 0,0:04:29.15,0:04:30.13,Default,,0,0,0,,Tomorrow?
+Dialogue: 0,0:04:32.65,0:04:34.22,Default,,0,0,0,,I'd rather not be.
+Dialogue: 0,0:04:37.33,0:04:39.63,Default,,0,0,0,,I'd rather not be alone either.
 Dialogue: 0,0:04:40.99,0:04:42.28,Default,,0,0,0,,Say,
 Dialogue: 0,0:04:43.74,0:04:45.95,Default,,0,0,0,,do you know today's date?
 Dialogue: 0,0:04:47.83,0:04:48.66,Default,,0,0,0,,Monday.
