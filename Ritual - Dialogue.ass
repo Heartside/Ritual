@@ -1,4 +1,4 @@
-[Script Info]
+﻿[Script Info]
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 804
@@ -69,8 +69,8 @@ Dialogue: 0,0:04:55.90,0:04:57.65,Default,,0,0,0,,Did you perform your ritual to
 Dialogue: 0,0:04:58.19,0:04:59.45,Default,,0,0,0,,Yes.
 Dialogue: 0,0:04:59.45,0:05:01.66,Default,,0,0,0,,It will make my wish come true.
 Dialogue: 0,0:05:01.92,0:05:02.78,Default,,0,0,0,,Your wish?
-Dialogue: 0,0:05:03.16,0:05:07.54,Default,,0,0,0,,When my wish comes true,\NI can disappear completely.
-Dialogue: 0,0:05:07.54,0:05:11.12,Default,,0,0,0,,Disappear, leaving nothing\Nin the world behind.
+Dialogue: 0,0:05:03.16,0:05:07.54,Default,,0,0,0,,When my wish comes true,\NI can disappear completely,
+Dialogue: 0,0:05:07.54,0:05:11.12,Default,,0,0,0,,leaving nothing in the world behind.
 Dialogue: 0,0:05:11.61,0:05:14.79,Default,,0,0,0,,That's why I have to keep\Nperforming the ritual.
 Dialogue: 0,0:05:16.05,0:05:19.72,Default,,0,0,0,,Until then, the red umbrella protects me.
 Dialogue: 0,0:05:27.44,0:05:28.10,Default,,0,0,0,,Say,
@@ -88,7 +88,7 @@ Dialogue: 0,0:06:28.20,0:06:29.90,Default,,0,0,0,,Same here, then.
 Dialogue: 0,0:06:40.73,0:06:42.63,Default,,0,0,0,,This your place?
 Dialogue: 0,0:06:42.63,0:06:43.34,Default,,0,0,0,,Yup.
 Dialogue: 0,0:06:47.94,0:06:48.96,Default,,0,0,0,,Here?
-Dialogue: 0,0:06:54.05,0:06:56.38,Default,,0,0,0,,{\i1}My unsound heart
+Dialogue: 0,0:06:54.05,0:06:56.38,Default,,0,0,0,,{\i1}My unwell heart
 Dialogue: 0,0:06:57.61,0:07:01.02,Default,,0,0,0,,{\i1}and the consuming loneliness
 Dialogue: 0,0:07:01.02,0:07:02.86,Default,,0,0,0,,{\i1}of longing for someone.
 Dialogue: 0,0:07:04.30,0:07:06.46,Default,,0,0,0,,{\i1}Perhaps anyone will do.
@@ -104,13 +104,12 @@ Dialogue: 0,0:07:36.07,0:07:37.23,Default,,0,0,0,,{\i1}Sick.
 Dialogue: 0,0:07:38.66,0:07:40.82,Default,,0,0,0,,{\i1}Dad and Mom are sick.
 Dialogue: 0,0:07:42.41,0:07:44.01,Default,,0,0,0,,{\i1}Everybody's sick.
 Dialogue: 0,0:07:45.91,0:07:47.69,Default,,0,0,0,,{\i1}And I'm...
-Dialogue: 0,0:07:48.99,0:07:50.99,Default,,0,0,0,,{\i1}sickest of all.
+Dialogue: 0,0:07:48.99,0:07:50.99,Default,,0,0,0,,{\i1}the sickest of all.
 Dialogue: 0,0:07:54.40,0:07:55.24,Default,,0,0,0,,What's wrong?
 Dialogue: 0,0:07:59.11,0:08:02.19,Default,,0,0,0,,Maybe I shouldn't have come.
 Dialogue: 0,0:08:02.98,0:08:05.76,Default,,0,0,0,,It's not that.
 Dialogue: 0,0:08:06.26,0:08:09.55,Default,,0,0,0,,No one's stood there before...
-Dialogue: 0,0:08:09.55,0:08:11.90,Default,,0,0,0,,I mean, it's unusual.
-Dialogue: 0,0:08:11.90,0:08:13.68,Default,,0,0,0,,So I felt strange. {I merged this and the last line into one sentence in my previous version, but I am not so sure about that anymore. Thoughts?}
+Dialogue: 0,0:08:09.55,0:08:13.68,Default,,0,0,0,,I mean, it's unusual. \NSo I felt strange.
 Dialogue: 0,0:08:13.98,0:08:14.93,Default,,0,0,0,,Eh?
 Dialogue: 0,0:08:16.19,0:08:16.93,Default,,0,0,0,,Do I look strange?
 Dialogue: 0,0:08:18.29,0:08:19.28,Default,,0,0,0,,No, not at all.
@@ -148,9 +147,9 @@ Dialogue: 0,0:10:01.81,0:10:03.81,Default,,0,0,0,,you'll pay for it.
 Dialogue: 0,0:10:04.83,0:10:06.16,Default,,0,0,0,,I swear you will.
 Dialogue: 0,0:10:08.17,0:10:12.63,Default,,0,0,0,,You, you, you...
 Dialogue: 0,0:10:12.63,0:10:15.64,Default,,0,0,0,,How dare you talk to me that way?!
-Dialogue: 0,0:10:15.64,0:10:19.63,Default,,0,0,0,,Your father tortured me,\Ndoing whatever he wanted.
+Dialogue: 0,0:10:15.64,0:10:19.63,Default,,0,0,0,,Your father tortured me,\Ndoing whatever he wanted!
 Dialogue: 0,0:10:19.63,0:10:24.47,Default,,0,0,0,,And now my own daughter {line break?}hates me this much!
-Dialogue: 0,0:10:24.47,0:10:27.86,Default,,0,0,0,,What's the point of living...
+Dialogue: 0,0:10:24.47,0:10:27.86,Default,,0,0,0,,What's the point of living?!
 Dialogue: 0,0:10:32.58,0:10:35.50,Default,,0,0,0,,I'll get out of the hospital tomorrow,
 Dialogue: 0,0:10:36.36,0:10:38.23,Default,,0,0,0,,and it's your birthday, too.
 Dialogue: 0,0:10:39.61,0:10:43.03,Default,,0,0,0,,Please? Won't you come home?
@@ -160,9 +159,9 @@ Dialogue: 0,0:11:28.13,0:11:30.32,Default,,0,0,0,,Probably, your birthday, right
 Dialogue: 0,0:11:30.88,0:11:34.58,Default,,0,0,0,,That's right!\NSo let's play together again!
 Dialogue: 0,0:11:35.12,0:11:37.86,Default,,0,0,0,,I don't want to be alone\Non my birthday.
 Dialogue: 0,0:12:59.18,0:13:00.34,Default,,0,0,0,,What are you doing?
-Dialogue: 0,0:13:02.39,0:13:06.15,Default,,0,0,0,,Rainy days are days\Nfor my father and sister.
+Dialogue: 0,0:13:02.39,0:13:06.15,Default,,0,0,0,,Rainy days are \Nfor my father and sister.
 Dialogue: 0,0:13:07.80,0:13:09.52,Default,,0,0,0,,They're both dead.
-Dialogue: 0,0:13:11.70,0:13:13.92,Default,,0,0,0,,And tomorrow's my birthday...
+Dialogue: 0,0:13:11.70,0:13:13.92,Default,,0,0,0,,And tomorrow's my birthday.
 Dialogue: 0,0:13:15.23,0:13:16.36,Default,,0,0,0,,{\i1}No doubt for her,
 Dialogue: 0,0:13:16.36,0:13:20.53,Default,,0,0,0,,{\i1}the truth is only an enemy that wounds her.
 Dialogue: 0,0:13:20.94,0:13:25.70,Default,,0,0,0,,{\i1}The days of her life pass in\Nloneliness, a darkness without exit.
@@ -237,19 +236,18 @@ Dialogue: 0,0:18:46.38,0:18:48.08,Default,,0,0,0,,The sky is pretty.
 Dialogue: 0,0:18:48.08,0:18:49.28,Default,,0,0,0,,The stars are pretty.
 Dialogue: 0,0:18:49.85,0:18:51.60,Default,,0,0,0,,The moon is pretty.
 Dialogue: 0,0:18:51.60,0:18:53.02,Default,,0,0,0,,The light is pretty.
-Dialogue: 0,0:18:53.71,0:18:56.27,Default,,0,0,0,,If I don't exist,
-Dialogue: 0,0:18:56.27,0:18:57.78,Default,,0,0,0,,everything's pretty.
+Dialogue: 0,0:18:53.71,0:18:57.78,Default,,0,0,0,,If I don't exist, everything's pretty.
 Dialogue: 0,0:18:58.17,0:19:00.14,Default,,0,0,0,,Maybe it's better if I didn't exist.
 Dialogue: 0,0:19:02.44,0:19:04.24,Default,,0,0,0,,How about my blood?
 Dialogue: 0,0:19:05.27,0:19:06.93,Default,,0,0,0,,Maybe it's pretty.
 Dialogue: 0,0:19:09.75,0:19:10.88,Default,,0,0,0,,Maybe I'll look.
 Dialogue: 0,0:19:24.94,0:19:26.56,Default,,0,0,0,,See, I'm still okay.
 Dialogue: 0,0:19:27.32,0:19:28.83,Default,,0,0,0,,I didn't let go.
-Dialogue: 0,0:19:30.97,0:19:32.44,Default,,0,0,0,,Still okay to be alive.
+Dialogue: 0,0:19:30.97,0:19:32.44,Default,,0,0,0,,Me being alive is still okay.
 Dialogue: 0,0:19:50.28,0:19:52.72,Default,,0,0,0,,A blank-faced mosquito falls.
 Dialogue: 0,0:19:52.72,0:19:53.82,Default,,0,0,0,,A huge mosquito,
 Dialogue: 0,0:19:53.82,0:19:56.49,Default,,0,0,0,,much, much bigger than I.
-Dialogue: 0,0:19:56.49,0:19:58.35,Default,,0,0,0,,It slumps and is still.
+Dialogue: 0,0:19:56.49,0:19:58.35,Default,,0,0,0,,It quiet and still.
 Dialogue: 0,0:19:58.88,0:20:02.54,Default,,0,0,0,,A much larger creature caught it
 Dialogue: 0,0:20:02.54,0:20:06.18,Default,,0,0,0,,and took flight, the mosquito in its grasp.
 Dialogue: 0,0:20:06.74,0:20:10.46,Default,,0,0,0,,It flew up and passed right over me.
@@ -258,32 +256,31 @@ Dialogue: 0,0:20:14.92,0:20:16.98,Default,,0,0,0,,Still blank.
 Dialogue: 0,0:20:16.98,0:20:19.49,Default,,0,0,0,,It drifted down, down, down.
 Dialogue: 0,0:20:21.45,0:20:22.76,Default,,0,0,0,,What's that?
 Dialogue: 0,0:20:22.76,0:20:24.54,Default,,0,0,0,,The inside of my head.
-Dialogue: 0,0:20:25.80,0:20:28.11,Default,,0,0,0,,Such an interesting head.
-Dialogue: 0,0:20:28.11,0:20:30.35,Default,,0,0,0,,It's your turn
-Dialogue: 0,0:20:30.35,0:20:32.01,Default,,0,0,0,,to talk. {TLC / TODO}
+Dialogue: 0,0:20:25.80,0:20:28.11,Default,,0,0,0,,Quite the interesting head.
+Dialogue: 0,0:20:28.11,0:20:32.01,Default,,0,0,0,,It's your turn to talk.
 Dialogue: 0,0:20:33.04,0:20:34.05,Default,,0,0,0,,About what?
 Dialogue: 0,0:20:35.13,0:20:36.24,Default,,0,0,0,,Something.
 Dialogue: 0,0:20:37.03,0:20:38.97,Default,,0,0,0,,Something, huh.
 Dialogue: 0,0:20:38.97,0:20:42.16,Default,,0,0,0,,Anything. I want to hear you talk.
-Dialogue: 0,0:20:45.87,0:20:47.38,Default,,0,0,0,,You know FireMan? {I've seen people capitalize it like this but I feel like "Fireman" would be more correct no?}
+Dialogue: 0,0:20:45.87,0:20:47.38,Default,,0,0,0,,You know Fireman?
 Dialogue: 0,0:20:48.22,0:20:49.06,Default,,0,0,0,,No.
 Dialogue: 0,0:20:49.83,0:20:52.81,Default,,0,0,0,,Well, when I was a kid,
-Dialogue: 0,0:20:52.81,0:20:54.55,Default,,0,0,0,,he was like UltraMan.
+Dialogue: 0,0:20:52.81,0:20:54.55,Default,,0,0,0,,he was like Ultraman.
 Dialogue: 0,0:20:56.15,0:21:00.43,Default,,0,0,0,,His enemies attack him\Nand in the end, he dies.
 Dialogue: 0,0:21:00.43,0:21:02.34,Default,,0,0,0,,He ignites.
 Dialogue: 0,0:21:03.05,0:21:04.33,Default,,0,0,0,,So he dies.
-Dialogue: 0,0:21:04.33,0:21:07.36,Default,,0,0,0,,FireMan ends up burning.
+Dialogue: 0,0:21:04.33,0:21:07.36,Default,,0,0,0,,Fireman ends up burning.
 Dialogue: 0,0:21:08.86,0:21:13.13,Default,,0,0,0,,He yells "Fire!" but\Nactually he's afraid of fire...
-Dialogue: 0,0:21:17.71,0:21:20.18,Default,,0,0,0,,Maybe he's FireMan 'cause he burns.
-Dialogue: 0,0:21:21.35,0:21:23.63,Default,,0,0,0,,But that wasn't what you wanted.
+Dialogue: 0,0:21:17.71,0:21:20.18,Default,,0,0,0,,Maybe he's Fireman 'cause he burns.
+Dialogue: 0,0:21:21.35,0:21:23.63,Default,,0,0,0,,But I doubt that was what you wanted to hear.
 Dialogue: 0,0:21:23.63,0:21:26.25,Default,,0,0,0,,I don't really get it,\Nbut it's interesting.
 Dialogue: 0,0:21:26.90,0:21:30.25,Default,,0,0,0,,{\i1}That's what she says,\Nbut I wonder...
 Dialogue: 0,0:21:30.25,0:21:34.18,Default,,0,0,0,,{\i1}Actually, all she wanted was\Nto hear someone's voice.
-Dialogue: 0,0:21:34.80,0:21:39.08,Default,,0,0,0,,{\i1}Actually, all she wanted was\Nto stop feeling lonely.
+Dialogue: 0,0:21:34.80,0:21:39.08,Default,,0,0,0,,{\i1}If all she wanted was\Nto stop feeling lonely.
 Dialogue: 0,0:21:42.18,0:21:44.03,Default,,0,0,0,,Know what tomorrow is?
 Dialogue: 0,0:21:45.53,0:21:46.79,Default,,0,0,0,,Your birthday, right?
 Dialogue: 0,0:22:00.59,0:22:02.49,Default,,0,0,0,,{\i1}Echoes from the
-Dialogue: 0,0:22:02.49,0:22:06.02,Default,,0,0,0,,{\i1}creaking arcade roof opening\Nand an all too ordinary sky
+Dialogue: 0,0:22:02.49,0:22:06.02,Default,,0,0,0,,{\i1}creaking arcade roof opening\Nto an all too ordinary sky
 Dialogue: 0,0:22:06.95,0:22:10.23,Default,,0,0,0,,{\i1}disturbed my ease.
 Dialogue: 0,0:22:12.31,0:22:13.85,Default,,0,0,0,,Can I see you tomorrow?
 Dialogue: 0,0:22:15.69,0:22:17.15,Default,,0,0,0,,If I'm still alive.
@@ -309,12 +306,12 @@ Dialogue: 0,0:23:45.79,0:23:49.99,Default,,0,0,0,,What? I wanted to think things
 Dialogue: 0,0:23:50.84,0:23:52.33,Default,,0,0,0,,I was kind of tired.
 Dialogue: 0,0:23:54.24,0:23:55.51,Default,,0,0,0,,Tough time?
 Dialogue: 0,0:23:58.03,0:24:00.55,Default,,0,0,0,,Well, there was a lot going on.
-Dialogue: 0,0:24:01.63,0:24:03.99,Default,,0,0,0,,But really, it was all about nothing. {TODO}
+Dialogue: 0,0:24:01.63,0:24:03.99,Default,,0,0,0,,But really, it was nothing.
 Dialogue: 0,0:24:05.93,0:24:07.93,Default,,0,0,0,,You're just like my mother.
 Dialogue: 0,0:24:07.93,0:24:12.18,Default,,0,0,0,,Mother always said\Nlife is full of tough times.
 Dialogue: 0,0:24:41.08,0:24:42.62,Default,,0,0,0,,Must be a wrong number.
 Dialogue: 0,0:24:45.30,0:24:49.10,Default,,0,0,0,,No phone calls today?
-Dialogue: 0,0:24:49.10,0:24:52.73,Default,,0,0,0,,Yeah, the deal's already done.
+Dialogue: 0,0:24:49.10,0:24:52.73,Default,,0,0,0,,Yeah, my work's already done.
 Dialogue: 0,0:24:55.21,0:24:57.14,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:24:57.14,0:24:59.44,Default,,0,0,0,,Hm? Nothing...
 Dialogue: 0,0:25:01.81,0:25:04.97,Default,,0,0,0,,My usual work exhausts me.
@@ -368,18 +365,18 @@ Dialogue: 0,0:29:15.93,0:29:17.33,Default,,0,0,0,,The unknown.
 Dialogue: 0,0:29:19.08,0:29:20.49,Default,,0,0,0,,Yeah, it's exciting.
 Dialogue: 0,0:29:20.49,0:29:24.89,Default,,0,0,0,,{\i1}The streetcar is a perfect means of escape \Nfrom the tedium of my days.
 Dialogue: 0,0:29:25.56,0:29:27.66,Default,,0,0,0,,{\i1}The scenery flows by cinematically.
-Dialogue: 0,0:29:27.66,0:29:29.66,Default,,0,0,0,,{\i1}The sound effects are punctual. {TODO: Retime}
+Dialogue: 0,0:29:27.66,0:29:29.66,Default,,0,0,0,,{\i1}The sound effects are punctual.
 Dialogue: 0,0:29:29.66,0:29:31.98,Default,,0,0,0,,{\i1}My fantasy about her expands.
 Dialogue: 0,0:29:33.00,0:29:34.79,Default,,0,0,0,,{\i1}I won't be bored for some time.
-Dialogue: 0,0:29:35.34,0:29:41.65,Default,,0,0,0,,{\i1}Our idle routine, the days \NI spend with her, like a lukewarm bath,
-Dialogue: 0,0:29:41.65,0:29:43.73,Default,,0,0,0,,{\i1}her faint smile seems to agree with me.
+Dialogue: 0,0:29:35.34,0:29:41.65,Default,,0,0,0,,{\i1}Our idle routine, the days \NI spend with her, are like a lukewarm bath,
+Dialogue: 0,0:29:41.65,0:29:43.73,Default,,0,0,0,,{\i1}and her faint smile seems to agree with me.
 Dialogue: 0,0:29:44.38,0:29:48.05,Default,,0,0,0,,{\i1}Each day, a countdown towards death.
 Dialogue: 0,0:29:48.05,0:29:49.64,Default,,0,0,0,,{\i1}I dare not risk negligence.
 Dialogue: 0,0:29:49.91,0:29:53.07,Default,,0,0,0,,{\i1}All the more reason to film her, I think.
 Dialogue: 0,0:29:53.74,0:29:56.30,Default,,0,0,0,,{\i1}Images, especially animation,
 Dialogue: 0,0:29:56.30,0:29:59.40,Default,,0,0,0,,{\i1}simply embody our\Npersonal and collective fantasies,
 Dialogue: 0,0:29:59.40,0:30:03.63,Default,,0,0,0,,{\i1}manipulating selected information,\Nand fictional constructs.
-Dialogue: 0,0:30:04.33,0:30:09.23,Default,,0,0,0,,{\i1}Even in live-action film, \Nrecording actuality, does not correspond to reality.
+Dialogue: 0,0:30:04.33,0:30:09.23,Default,,0,0,0,,{\i1}Even live-action film, \Nrecording actuality, does not correspond to reality.
 Dialogue: 0,0:30:09.93,0:30:14.55,Default,,0,0,0,,{\i1}Conversely, reality, \Nco-opted by fiction, loses its value.
 Dialogue: 0,0:30:15.07,0:30:18.36,Default,,0,0,0,,{\i1}"The inversion of reality and fiction."
 Dialogue: 0,0:30:18.36,0:30:21.06,Default,,0,0,0,,{\i1}None of this matters to me anymore.
@@ -393,8 +390,8 @@ Dialogue: 0,0:30:44.33,0:30:48.74,Default,,0,0,0,,{\i1}for my inability to commu
 Dialogue: 0,0:30:54.64,0:30:58.49,Default,,0,0,0,,This is the way to the mystery basement.
 Dialogue: 0,0:30:58.49,0:31:01.85,Default,,0,0,0,,No trespassing\Nbecause the camera is prohibited,
 Dialogue: 0,0:31:03.02,0:31:05.98,Default,,0,0,0,,I cannot show you anymore.
-Dialogue: 0,0:31:05.98,0:31:07.14,Default,,0,0,0,,My apologies {TODO: Split}
-Dialogue: 0,0:31:08.28,0:31:11.64,Default,,0,0,0,,Outside circumstances
+Dialogue: 0,0:31:05.98,0:31:07.14,Default,,0,0,0,,My apologies.
+Dialogue: 0,0:31:08.28,0:31:11.64,Default,,0,0,0,,Outside circumstances...
 Dialogue: 0,0:31:11.64,0:31:16.16,Default,,0,0,0,,force me to omit the first \Nthrough seventh floors.
 Dialogue: 0,0:31:20.59,0:31:23.95,Default,,0,0,0,,Next, the roof.
 Dialogue: 0,0:31:32.88,0:31:35.55,Default,,0,0,0,,So, this is the roof.
@@ -453,13 +450,13 @@ Dialogue: 0,0:35:18.98,0:35:21.17,Default,,0,0,0,,So you do read it. Disgusting.
 Dialogue: 0,0:35:21.17,0:35:24.83,Default,,0,0,0,,Like Playboy, or whatever.
 Dialogue: 0,0:35:25.88,0:35:30.55,Default,,0,0,0,,"Females drowning in their lust,\Ncoming wherever they please..."
 Dialogue: 0,0:35:30.55,0:35:31.59,Default,,0,0,0,,Don't read it!
-Dialogue: 0,0:35:32.42,0:35:35.05,Default,,0,0,0,,"Normal sex doesn't do it"
+Dialogue: 0,0:35:32.42,0:35:35.05,Default,,0,0,0,,"Normal sex just doesn't do it"
 Dialogue: 0,0:35:34.09,0:35:35.05,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:35:35.05,0:35:40.28,Default,,0,0,0,,"The nymphomaniacs who lust for kinky settings"
-Dialogue: 0,0:35:38.46,0:35:40.28,Default,,0,0,0,,{}Cut it out. It's embarrassing.
+Dialogue: 0,0:35:35.05,0:35:40.28,Default,,0,0,0,,"The nymphomaniacs who \Nlust for kinky settings"
+Dialogue: 0,0:35:38.46,0:35:40.28,Default,,0,0,0,,{\an8}Cut it out. It's embarrassing.
 Dialogue: 0,0:35:44.87,0:35:46.60,Default,,0,0,0,,Throw it away.
 Dialogue: 0,0:35:47.71,0:35:48.73,Default,,0,0,0,,It's dirty.
-Dialogue: 0,0:35:53.28,0:35:55.31,Default,,0,0,0,,You like this stuff too. {boob} {Should this be a question mark?}
+Dialogue: 0,0:35:53.28,0:35:55.31,Default,,0,0,0,,You like this stuff too? {boob}
 Dialogue: 0,0:35:59.18,0:36:00.86,Default,,0,0,0,,What can I say?
 Dialogue: 0,0:36:02.18,0:36:03.67,Default,,0,0,0,,It says, "vavoom".
 Dialogue: 0,0:36:09.03,0:36:10.97,Default,,0,0,0,,No!
@@ -504,8 +501,8 @@ Dialogue: 0,0:38:30.64,0:38:32.99,Default,,0,0,0,,I don't care who it is.\NAt le
 Dialogue: 0,0:38:39.48,0:38:40.25,Default,,0,0,0,,Want it?
 Dialogue: 0,0:38:52.68,0:38:53.82,Default,,0,0,0,,Give it back.
 Dialogue: 0,0:38:56.25,0:38:56.91,Default,,0,0,0,,Here.
-Dialogue: 0,0:39:05.22,0:39:08.74,Default,,0,0,0,,That night,\Nher smile disappeared
-Dialogue: 0,0:39:08.74,0:39:11.25,Default,,0,0,0,,with the falling rain.
+Dialogue: 0,0:39:05.22,0:39:08.74,Default,,0,0,0,,{\i1}That night,\Nher smile disappeared
+Dialogue: 0,0:39:08.74,0:39:11.25,Default,,0,0,0,,{\i1}with the falling rain.
 Dialogue: 0,0:39:35.38,0:39:36.22,Default,,0,0,0,,Hey!
 Dialogue: 0,0:39:38.36,0:39:39.54,Default,,0,0,0,,You okay?
 Dialogue: 0,0:39:44.52,0:39:45.52,Default,,0,0,0,,I'm coming in.
@@ -521,9 +518,9 @@ Dialogue: 0,0:42:05.86,0:42:07.73,Default,,0,0,0,,I like rainy days,
 Dialogue: 0,0:42:07.73,0:42:09.95,Default,,0,0,0,,because when it rains,
 Dialogue: 0,0:42:09.95,0:42:14.37,Default,,0,0,0,,all the merry people in the world\Nfinally walk with their eyes downcast.
 Dialogue: 0,0:42:14.37,0:42:15.82,Default,,0,0,0,,That's why I like rain!
-Dialogue: 0,0:42:26.27,0:42:27.79,Default,,0,0,0,,{\i1}The rain she loves.
-Dialogue: 0,0:42:28.53,0:42:31.40,Default,,0,0,0,,{\i1}What she keeps bottled up on sunny days,
-Dialogue: 0,0:42:31.40,0:42:33.95,Default,,0,0,0,,{\i1}flows as from a broken darn when it rains.
+Dialogue: 0,0:42:26.27,0:42:27.79,Default,,0,0,0,,{\i1}The way she loves the rain,
+Dialogue: 0,0:42:28.53,0:42:31.40,Default,,0,0,0,,{\i1}is what she keeps bottled up on sunny days,
+Dialogue: 0,0:42:31.40,0:42:33.95,Default,,0,0,0,,{\i1}flows from a broken dam when it rains.
 Dialogue: 0,0:42:34.56,0:42:38.44,Default,,0,0,0,,{\i1}Her feelings of loneliness and sorrow.
 Dialogue: 0,0:42:39.19,0:42:43.92,Default,,0,0,0,,{\i1}These emotions elevate her,
 Dialogue: 0,0:42:43.92,0:42:46.69,Default,,0,0,0,,{\i1}preventing her from \Nengaging in a certain behavior.
@@ -560,7 +557,7 @@ Dialogue: 0,0:44:39.46,0:44:42.24,Default,,0,0,0,,As of today... this.
 Dialogue: 0,0:44:43.34,0:44:44.30,Default,,0,0,0,,What's that?
 Dialogue: 0,0:44:45.41,0:44:46.68,Default,,0,0,0,,A videocamera.
 Dialogue: 0,0:44:47.22,0:44:48.37,Default,,0,0,0,,Matching.
-Dialogue: 0,0:44:49.74,0:44:52.13,Default,,0,0,0,,Did you ever have fun?
+Dialogue: 0,0:44:49.74,0:44:52.13,Default,,0,0,0,,Are you having fun?
 Dialogue: 0,0:44:57.12,0:45:00.46,Default,,0,0,0,,A hesitant reply isn't a good sign, is it?
 Dialogue: 0,0:45:02.43,0:45:04.45,Default,,0,0,0,,Okay then...
 Dialogue: 0,0:45:04.45,0:45:06.01,Default,,0,0,0,,A favorite place?
@@ -569,7 +566,7 @@ Dialogue: 0,0:45:13.17,0:45:14.86,Default,,0,0,0,,I loved the desert.
 Dialogue: 0,0:45:14.86,0:45:16.24,Default,,0,0,0,,The desert?
 Dialogue: 0,0:45:16.24,0:45:17.35,Default,,0,0,0,,Desert.
 Dialogue: 0,0:45:18.87,0:45:23.08,Default,,0,0,0,,A simple place with only sand and sky.
-Dialogue: 0,0:45:24.42,0:45:25.99,Default,,0,0,0,,Really beautiful.
+Dialogue: 0,0:45:24.42,0:45:25.99,Default,,0,0,0,,It's really beautiful.
 Dialogue: 0,0:45:26.77,0:45:29.79,Default,,0,0,0,,But it was beautiful\Nbecause it was unpopulated.
 Dialogue: 0,0:45:31.37,0:45:35.18,Default,,0,0,0,,No humans there to warp it.
 Dialogue: 0,0:45:35.77,0:45:38.41,Default,,0,0,0,,A beautiful world\Nwithout people.
@@ -593,7 +590,7 @@ Dialogue: 0,0:46:24.09,0:46:25.72,Default,,0,0,0,,That's why!
 Dialogue: 0,0:46:26.21,0:46:28.00,Default,,0,0,0,,{\i1}They left me.
 Dialogue: 0,0:46:28.85,0:46:31.57,Default,,0,0,0,,{\i1}Abused and then abandoned.
 Dialogue: 0,0:46:32.46,0:46:34.61,Default,,0,0,0,,{\i1}I tried everything,
-Dialogue: 0,0:46:34.61,0:46:37.61,Default,,0,0,0,,{\i1}but my fear made me tremble.
+Dialogue: 0,0:46:34.61,0:46:37.61,Default,,0,0,0,,{\i1}but my fear made me hesitant.
 Dialogue: 0,0:46:39.60,0:46:41.36,Default,,0,0,0,,{\i1}The magical powers\Nof a pair of dice
 Dialogue: 0,0:46:42.58,0:46:44.16,Default,,0,0,0,,{\i1}still sway me
 Dialogue: 0,0:46:45.32,0:46:46.92,Default,,0,0,0,,{\i1}undiminished.
@@ -606,11 +603,11 @@ Dialogue: 0,0:47:41.16,0:47:42.87,Default,,0,0,0,,{\i1}How would the skies part?
 Dialogue: 0,0:47:43.97,0:47:45.93,Default,,0,0,0,,{\i1}How would the wind flow?
 Dialogue: 0,0:47:48.50,0:47:51.62,Default,,0,0,0,,{\i1}Beneath the steps of that dark red space
 Dialogue: 0,0:47:53.08,0:47:56.89,Default,,0,0,0,,{\i1}you used that sharp stick
-Dialogue: 0,0:47:57.79,0:48:02.37,Default,,0,0,0,,{\i1}and struck my bursting...
+Dialogue: 0,0:47:57.79,0:48:02.37,Default,,0,0,0,,{\i1}and struck my bursting heart...
 Dialogue: 0,0:48:02.37,0:48:05.32,Default,,0,0,0,,{\i1}over and over...
 Dialogue: 0,0:48:09.45,0:48:11.84,Default,,0,0,0,,It's no good, I can't write.
-Dialogue: 0,0:48:12.96,0:48:14.73,Default,,0,0,0,,Hopeless.
-Dialogue: 0,0:48:15.34,0:48:16.97,Default,,0,0,0,,Maybe time to give it up.
+Dialogue: 0,0:48:12.96,0:48:14.73,Default,,0,0,0,,It's hopeless.
+Dialogue: 0,0:48:15.34,0:48:16.97,Default,,0,0,0,,Maybe it's time to give it up.
 Dialogue: 0,0:48:18.96,0:48:20.81,Default,,0,0,0,,What'll I do if I quit?
 Dialogue: 0,0:48:21.53,0:48:23.08,Default,,0,0,0,,What do you think I'd...
 Dialogue: 0,0:48:27.73,0:48:29.57,Default,,0,0,0,,Oh, sorry, I'll call you back.
@@ -650,7 +647,8 @@ Dialogue: 0,0:52:37.74,0:52:39.67,Default,,0,0,0,,{\i1}Nothing else worth\Nrecor
 Dialogue: 0,0:52:40.56,0:52:45.01,Default,,0,0,0,,{\i1}Except that of course we neither\Nspoke nor exchanged a glance.
 Dialogue: 0,0:52:46.01,0:52:49.59,Default,,0,0,0,,{\i1}I remained locked outside her.
 Dialogue: 0,0:52:50.56,0:52:51.86,Default,,0,0,0,,Here, Jam!
-Dialogue: 0,0:52:52.57,0:52:53.57,Default,,0,0,0,,Why don't you come?
+Dialogue: 0,0:52:52.57,0:52:53.57,Default,,0,0,0,,Come here!
+Dialogue: 0,0:53:04.10,0:53:06.29,Default,,0,0,0,,Why didn't you come?
 Dialogue: 0,0:53:14.25,0:53:18.26,Default,,0,0,0,,The cat slipped away that day.
 Dialogue: 0,0:53:19.38,0:53:21.00,Default,,0,0,0,,{\i1}The photographer's dream.
 Dialogue: 0,0:53:21.63,0:53:23.28,Default,,0,0,0,,{\i1}The writer's soul.
@@ -666,7 +664,7 @@ Dialogue: 0,0:53:44.79,0:53:46.40,Default,,0,0,0,,{\i1}drifting through the dark
 Dialogue: 0,0:53:47.06,0:53:49.03,Default,,0,0,0,,{\i1}envelopes the girl.
 Dialogue: 0,0:53:49.03,0:53:50.49,Default,,0,0,0,,You can eat this.
 Dialogue: 0,0:53:51.01,0:53:52.22,Default,,0,0,0,,{\i1}Announcing,
-Dialogue: 0,0:53:52.76,0:53:56.21,Default,,0,0,0,,{\i1}My true mother has arrived.
+Dialogue: 0,0:53:52.76,0:53:56.21,Default,,0,0,0,,{\i1}my true mother has arrived.
 Dialogue: 0,0:53:56.21,0:53:57.49,Default,,0,0,0,,{\i1}The girl dances
 Dialogue: 0,0:53:58.76,0:54:00.06,Default,,0,0,0,,{\i1}wildly, wildly
 Dialogue: 0,0:54:01.36,0:54:02.72,Default,,0,0,0,,{\i1}wildly.
@@ -695,7 +693,7 @@ Dialogue: 0,0:59:28.91,0:59:31.70,Default,,0,0,0,,Don't disappear like that, oka
 Dialogue: 0,0:59:35.63,0:59:38.35,Default,,0,0,0,,Don't ever leave me alone again, okay?
 Dialogue: 0,0:59:40.79,0:59:42.06,Default,,0,0,0,,Promise.
 Dialogue: 0,0:59:43.86,0:59:46.80,Default,,0,0,0,,Because tomorrow's my birthday.
-Dialogue: 0,0:59:50.06,0:59:53.04,Default,,0,0,0,,Sure... okay.
+Dialogue: 0,0:59:50.06,0:59:54.01,Default,,0,0,0,,Sure... okay.
 Dialogue: 0,0:59:56.01,0:59:57.29,Default,,0,0,0,,You have to be
 Dialogue: 0,0:59:58.78,1:00:00.54,Default,,0,0,0,,with me on my birthday.
 Dialogue: 0,1:00:02.93,1:00:04.61,Default,,0,0,0,,Forever and ever, okay?
@@ -754,7 +752,7 @@ Dialogue: 0,1:05:28.42,1:05:29.66,Default,,0,0,0,,Amazing, isn't it? {Split mayb
 Dialogue: 0,1:05:31.06,1:05:32.34,Default,,0,0,0,,I know what you mean.
 Dialogue: 0,1:05:33.39,1:05:34.76,Default,,0,0,0,,But your mouth's
 Dialogue: 0,1:05:35.68,1:05:39.50,Default,,0,0,0,,always wide open, and you drool.
-Dialogue: 0,1:05:41.21,1:05:43.71,Default,,0,0,0,,You... fool!
+Dialogue: 0,1:05:41.21,1:05:43.71,Default,,0,0,0,,You... idiot!
 Dialogue: 0,1:05:43.71,1:05:45.25,Default,,0,0,0,,Ouch!
 Dialogue: 0,1:05:46.76,1:05:47.73,Default,,0,0,0,,Can you make it over?
 Dialogue: 0,1:05:53.73,1:05:56.72,Default,,0,0,0,,All these used tires
@@ -807,16 +805,16 @@ Dialogue: 0,1:09:59.53,1:10:02.93,Default,,0,0,0,,{\i1}yet eagerly awaiting the 
 Dialogue: 0,1:10:03.35,1:10:07.60,Default,,0,0,0,,{\i1}What do I want from this reality I share with her?
 Dialogue: 0,1:10:08.60,1:10:13.27,Default,,0,0,0,,{\i1}The constancy of the past or the change of the future.
 Dialogue: 0,1:10:14.69,1:10:15.69,Default,,0,0,0,,{\i1}However,
-Dialogue: 0,1:10:16.11,1:10:19.95,Default,,0,0,0,,{\i1}these were no more than idle doubts that shifted with my moods.
+Dialogue: 0,1:10:16.11,1:10:19.95,Default,,0,0,0,,{\i1}these were no more than idle doubts that shifted with my mood.
 Dialogue: 0,1:10:27.24,1:10:30.64,Default,,0,0,0,,You snore every night, just like a hedgehog.
 Dialogue: 0,1:10:30.64,1:10:32.70,Default,,0,0,0,,{\i1}These days will come to an end.
-Dialogue: 0,1:10:33.31,1:10:35.20,Default,,0,0,0,,Eventually, I'll part with her. {Split}
+Dialogue: 0,1:10:33.31,1:10:35.20,Default,,0,0,0,,{\i1}Eventually, I'll part with her.
 Dialogue: 0,1:10:35.84,1:10:39.08,Default,,0,0,0,,{\i1}Even my life will end one day.
 Dialogue: 0,1:10:40.27,1:10:45.26,Default,,0,0,0,,{\i1}All the more reason to treasure\Nthese slight, fleeting emotions.
 Dialogue: 0,1:10:46.18,1:10:50.69,Default,,0,0,0,,{\i1}But the excess of boredom and intimacy
 Dialogue: 0,1:10:50.69,1:10:52.89,Default,,0,0,0,,{\i1}were simply exhausting me.
 Dialogue: 0,1:10:53.66,1:10:59.04,Default,,0,0,0,,{\i1}And I realized that gradually,\Nthe times that being with her depressed me,
-Dialogue: 0,1:10:59.04,1:11:04.44,Default,,0,0,0,,{\i1}outstripped the times that I enjoyed it.
+Dialogue: 0,1:10:59.04,1:11:04.44,Default,,0,0,0,,{\i1}outstripped the times that I found joy in it.
 Dialogue: 0,1:11:34.19,1:11:36.15,Default,,0,0,0,,Someday that'll happen to me.
 Dialogue: 0,1:11:45.31,1:11:46.83,Default,,0,0,0,,You know, today,
 Dialogue: 0,1:11:46.83,1:11:48.86,Default,,0,0,0,,there was this blue car
@@ -835,7 +833,7 @@ Dialogue: 0,1:12:54.30,1:12:56.18,Default,,0,0,0,,I'll be left alone again.
 Dialogue: 0,1:12:56.18,1:12:57.73,Default,,0,0,0,,I'll be left alone again.
 Dialogue: 0,1:12:57.73,1:12:59.55,Default,,0,0,0,,{\i1}They left me.
 Dialogue: 0,1:13:00.87,1:13:03.59,Default,,0,0,0,,{\i1}Abused and then abandoned.
-Dialogue: 0,1:13:05.06,1:13:07.26,Default,,0,0,0,,{\i1}I tried everything
+Dialogue: 0,1:13:05.06,1:13:07.26,Default,,0,0,0,,{\i1}I wanted to try and fix things
 Dialogue: 0,1:13:07.26,1:13:09.87,Default,,0,0,0,,{\i1}but my fear made me tremble.
 Dialogue: 0,1:13:11.02,1:13:15.40,Default,,0,0,0,,{\i1}The magical powers of a pair of dice...
 Dialogue: 0,1:13:16.24,1:13:17.91,Default,,0,0,0,,{\i1}...still sway me.
@@ -852,7 +850,7 @@ Dialogue: 0,1:13:54.14,1:13:55.80,Default,,0,0,0,,Guess it's hopeless.
 Dialogue: 0,1:13:57.39,1:14:00.67,Default,,0,0,0,,I've had it! Where are you?!
 Dialogue: 0,1:14:00.67,1:14:02.98,Default,,0,0,0,,Not with that man again!
 Dialogue: 0,1:14:03.66,1:14:06.49,Default,,0,0,0,,I won't stand for it!
-Dialogue: 0,1:14:06.49,1:14:09.20,Default,,0,0,0,,Shut up, clueless!
+Dialogue: 0,1:14:06.49,1:14:09.20,Default,,0,0,0,,Shut up, dumbass!
 Dialogue: 0,1:14:09.20,1:14:11.52,Default,,0,0,0,,You're so patronizing!
 Dialogue: 0,1:14:11.52,1:14:15.31,Default,,0,0,0,,All you ever want is\Nfor me to be grateful!
 Dialogue: 0,1:14:15.31,1:14:16.89,Default,,0,0,0,,Always, always, always.
@@ -889,10 +887,10 @@ Dialogue: 0,1:17:01.58,1:17:04.42,Default,,0,0,0,,{\i1}the endless darkness insi
 Dialogue: 0,1:17:05.35,1:17:10.37,Default,,0,0,0,,{\i1}Perhaps I'm incapable of accepting her...
 Dialogue: 0,1:17:10.37,1:17:14.31,Default,,0,0,0,,{\i1}I find myself enveloped\Nin an anxiety I cannot shake.
 Dialogue: 0,1:17:15.11,1:17:18.49,Default,,0,0,0,,{\i1}Today, again, I can do nothing.
-Dialogue: 0,1:17:20.78,1:17:25.02,Default,,0,0,0,,{\i1}6 in the morning,\Nshe's back to her usual self
+Dialogue: 0,1:17:20.78,1:17:25.02,Default,,0,0,0,,{\i1}6 in the morning,\Nshe's back to her usual self.
 Dialogue: 0,1:17:25.81,1:17:29.10,Default,,0,0,0,,{\i1}She's returned to her little world
 Dialogue: 0,1:17:29.10,1:17:31.62,Default,,0,0,0,,{\i1}constructed entirely
-Dialogue: 0,1:17:31.62,1:17:34.96,Default,,0,0,0,,{\i1}of her protections, denying the existence
+Dialogue: 0,1:17:31.62,1:17:34.96,Default,,0,0,0,,{\i1}of her perceptions, denying the existence
 Dialogue: 0,1:17:34.96,1:17:36.50,Default,,0,0,0,,{\i1}of whatever can harm her.
 Dialogue: 0,1:17:37.32,1:17:42.30,Default,,0,0,0,,{\i1}Except now she has chosen to rely on me.
 Dialogue: 0,1:17:42.92,1:17:45.22,Default,,0,0,0,,Yeah, it always sounds good.
@@ -914,12 +912,12 @@ Dialogue: 0,1:18:43.17,1:18:47.23,Default,,0,0,0,,{\i1}or as momentary respite \
 Dialogue: 0,1:18:48.02,1:18:53.15,Default,,0,0,0,,{\i1}People desire either real scandals\Namplified by rawness,
 Dialogue: 0,1:18:53.92,1:18:55.22,Default,,0,0,0,,{\i1}or,
 Dialogue: 0,1:18:55.22,1:18:59.45,Default,,0,0,0,,{\i1}the illusion of beautifully adapted fictions.
-Dialogue: 0,1:19:00.46,1:19:02.03,Default,,0,0,0,,{\i1}It is true of me. {What does this mean??? | probably means "i'm no different" -aigis}
+Dialogue: 0,1:19:00.46,1:19:02.03,Default,,0,0,0,,{\i1}I'm no different. {What does this mean??? | probably means "i'm no different" -aigis}
 Dialogue: 0,1:19:03.29,1:19:05.90,Default,,0,0,0,,{\i1}Unable to create appropriate relationships,
 Dialogue: 0,1:19:05.90,1:19:10.90,Default,,0,0,0,,{\i1}I escape into a fictional world,\Nconstructed on a fantasy of daily life.
 Dialogue: 0,1:19:11.95,1:19:14.18,Default,,0,0,0,,{\i1}Even this film, when completed,
-Dialogue: 0,1:19:14.18,1:19:17.44,Default,,0,0,0,,{\i1}will become a device to deliver\Na certain amount of pleasure.
-Dialogue: 0,1:19:17.44,1:19:20.53,Default,,0,0,0,,{\i1}Devoid of surprises,\Nand a measure of time spent in peace.
+Dialogue: 0,1:19:14.18,1:19:17.44,Default,,0,0,0,,{\i1}will become a device to deliver\Na certain amount of pleasure, devoid of surprises,
+Dialogue: 0,1:19:17.44,1:19:20.53,Default,,0,0,0,,{\i1}a measure of time spent in peace.
 Dialogue: 0,1:19:21.67,1:19:26.13,Default,,0,0,0,,{\i1}Who wants images beyond that?\NWho needs them?
 Dialogue: 0,1:19:27.10,1:19:31.32,Default,,0,0,0,,{\i1}By then, I had abandoned\Nher as a visual construct.
 Dialogue: 0,1:19:32.64,1:19:34.56,Default,,0,0,0,,{\i1}I didn't want to film anything.
@@ -931,7 +929,7 @@ Dialogue: 0,1:19:53.70,1:19:55.90,Default,,0,0,0,,{\i1}Could I really bear it?
 Dialogue: 0,1:19:58.40,1:20:00.62,Default,,0,0,0,,Long time...
 Dialogue: 0,1:20:00.62,1:20:01.90,Default,,0,0,0,,So you came back!
 Dialogue: 0,1:20:21.95,1:20:24.61,Default,,0,0,0,,Hey, wait!
-Dialogue: 0,1:20:25.13,1:20:27.39,Default,,0,0,0,,Hey! Hey! 
+Dialogue: 0,1:20:25.13,1:20:27.39,Default,,0,0,0,,Hey! Hey!
 Dialogue: 0,1:20:29.19,1:20:32.04,Default,,0,0,0,,Wait, dammit!
 Dialogue: 0,1:20:34.56,1:20:35.90,Default,,0,0,0,,What's that about?
 Dialogue: 0,1:20:39.85,1:20:40.91,Default,,0,0,0,,I gotta go.
@@ -964,13 +962,13 @@ Dialogue: 0,1:26:23.89,1:26:25.16,Default,,0,0,0,,Liar!
 Dialogue: 0,1:26:28.04,1:26:30.26,Default,,0,0,0,,I'm not lying. It's the truth.
 Dialogue: 0,1:26:32.86,1:26:34.27,Default,,0,0,0,,There's nothing left.
 Dialogue: 0,1:26:56.55,1:26:59.30,Default,,0,0,0,,Nothing but your heartbeat.
-Comment: 0,1:26:56.55,1:26:59.30,Default,,0,0,0,,{should prob be something here, like a "say" or whatever -aigis}
+Comment: 0,1:27:07.39,1:27:08.14,Default,,0,0,0,,Say...
 Dialogue: 0,1:27:13.33,1:27:14.81,Default,,0,0,0,,Ever kissed someone?
 Dialogue: 0,1:27:17.48,1:27:18.29,Default,,0,0,0,,I have.
 Dialogue: 0,1:27:21.52,1:27:23.15,Default,,0,0,0,,Maybe I haven't ever.
 Dialogue: 0,1:27:29.69,1:27:31.36,Default,,0,0,0,,Have you ever killed someone?
 Dialogue: 0,1:27:33.43,1:27:34.27,Default,,0,0,0,,No...
-Dialogue: 0,1:27:36.13,1:27:39.13,Default,,0,0,0,,Maybe. {could prob extend this with like "Actually... maybe I have." or something cause just "maybe" for the whole line feels like it's missing something -aigis}
+Dialogue: 0,1:27:36.13,1:27:39.13,Default,,0,0,0,,Well, maybe... {could prob extend this with like "Actually... maybe I have." or something cause just "maybe" for the whole line feels like it's missing something -aigis}
 Dialogue: 0,1:27:40.45,1:27:41.68,Default,,0,0,0,,In my head.
 Dialogue: 0,1:27:44.93,1:27:45.95,Default,,0,0,0,,Me too.
 Dialogue: 0,1:28:01.12,1:28:02.88,Default,,0,0,0,,You want to have sex?
@@ -1170,7 +1168,7 @@ Dialogue: 0,1:47:32.65,1:47:33.44,Default,,0,0,0,,Who?
 Dialogue: 0,1:47:34.50,1:47:37.85,Default,,0,0,0,,It was... your mother.
 Dialogue: 0,1:47:39.69,1:47:40.35,Default,,0,0,0,,No...
 Dialogue: 0,1:47:47.62,1:47:48.84,Default,,0,0,0,,She's still alive.
-Dialogue: 0,1:47:51.64,1:47:52.65,Default,,0,0,0,,I need to kill her.
+Dialogue: 0,1:47:51.64,1:47:52.63,Default,,0,0,0,,I need to kill her.
 Dialogue: 0,1:47:56.06,1:47:59.17,Default,,0,0,0,,It's not true,\N'cause she's dead.
 Dialogue: 0,1:48:00.02,1:48:01.14,Default,,0,0,0,,It's not a lie.
 Dialogue: 0,1:48:02.57,1:48:06.05,Default,,0,0,0,,She's coming to see you tomorrow.
@@ -1220,8 +1218,8 @@ Dialogue: 0,1:51:24.99,1:51:27.69,Default,,0,0,0,,Mother's curse came to pass
 Dialogue: 0,1:51:27.69,1:51:29.34,Default,,0,0,0,,and my father left.
 Dialogue: 0,1:51:31.65,1:51:32.68,Default,,0,0,0,,I tried hard
 Dialogue: 0,1:51:33.78,1:51:36.52,Default,,0,0,0,,to keep her from driving me away.
-Dialogue: 0,1:51:39.05,1:51:40.51,Default,,0,0,0,,But she told me,
-Dialogue: 0,1:51:41.53,1:51:43.76,Default,,0,0,0,,even though she never told my sister.
+Dialogue: 0,1:51:39.05,1:51:40.51,Default,,0,0,0,,But she scolded me,
+Dialogue: 0,1:51:41.53,1:51:43.76,Default,,0,0,0,,even though she never scolded my sister.
 Dialogue: 0,1:51:44.82,1:51:46.57,Default,,0,0,0,,It was my birthday.
 Dialogue: 0,1:51:48.88,1:51:51.67,Default,,0,0,0,,A red umbrella and red shoes.
 Dialogue: 0,1:51:54.65,1:51:58.53,Default,,0,0,0,,My mother bought them for me\Nwhen we went shopping together.
